@@ -1,0 +1,1501 @@
+claim_id,policy_id,claim_date,claim_amount,claim_reason,status,rejection_reason,documents_attached
+CLM-6BB8C740,POL-FA3CEA25,2023-08-16,115258,Loss of valuables during trip,Approved,,False
+CLM-C2E1B7C6,POL-F1BAB101,2025-01-03,351427,Claim process dispute,Pending,,False
+CLM-4A4C32E6,POL-7E62857A,2023-08-30,53140,Claim for loss of mobility,Rejected,Policy expired,False
+CLM-47A12C25,POL-0F2E1199,2024-02-13,364017,Hospitalization due to pneumonia,Rejected,Coverage does not apply,True
+CLM-9EA6C4AB,POL-7C24E0C8,2023-06-13,313213,Life insurance claim for accident,Approved,,True
+CLM-F397D292,POL-9036E7EA,2024-01-03,116900,Repair of dented vehicle body,Approved,,False
+CLM-B9F95E6F,POL-4F20633E,2024-08-16,69557,Claim for loss of use of limb,Approved,,False
+CLM-293381F0,POL-F0857B32,2024-11-16,401347,Life insurance payout request,Pending,,True
+CLM-B545CB9B,POL-AE931C65,2024-08-13,324576,Customer complaint on claim delay,Approved,,False
+CLM-80D8DE48,POL-1DAEDB02,2023-07-09,72550,Life insurance payout,Pending,,True
+CLM-1463A823,POL-3BA8DC06,2023-06-27,218427,Reimbursement for diagnostic tests,Rejected,Coverage does not apply,False
+CLM-5DE855D6,POL-BE00007D,2023-09-13,345668,Claim for loss of limb function,Rejected,Fraud suspicion,True
+CLM-F685C98E,POL-79939A64,2024-01-22,344503,Repair costs for accident,Approved,,True
+CLM-24B9A328,POL-C5598BDC,2023-07-29,114622,Hospitalization due to infection,Pending,,False
+CLM-7428A754,POL-F649F35F,2024-12-09,427284,Hospital stay due to accident injuries,Approved,,True
+CLM-43832F0C,POL-553B27E5,2024-07-11,396445,Water damage to electronic devices,Pending,,True
+CLM-58C17EB0,POL-EF03E03C,2023-12-30,218853,Repair of car damage,Pending,,False
+CLM-70281B84,POL-919E4FD0,2024-06-15,278682,Claim for loss of use of limb,Rejected,Policy expired,False
+CLM-68A15D89,POL-855FD529,2024-08-14,312766,Loss of valuables in hotel theft,Pending,,True
+CLM-B091CB86,POL-47032B60,2024-03-31,55635,Claim for loss of limb function,Pending,,False
+CLM-E4E56901,POL-DDF341E7,2024-10-31,266862,Customer dissatisfaction with claim process,Approved,,False
+CLM-38095F65,POL-A3E87718,2025-04-21,458433,Reimbursement for medication,Rejected,Incomplete documents,False
+CLM-DB1C7772,POL-618A3B27,2024-03-24,366086,Hospital stay for surgery,Pending,,True
+CLM-F1A23E7F,POL-AE30610E,2023-08-21,498429,Lost baggage during travel,Rejected,Incomplete documents,False
+CLM-859139CA,POL-EEC2AD14,2025-04-17,59142,Fire damage to kitchen,Approved,,False
+CLM-F691D3A6,POL-ACA01364,2024-05-16,102498,Fraudulent claim investigation,Approved,,True
+CLM-4CB11E41,POL-6433269B,2025-04-14,390462,Repair costs for vehicle accident,Rejected,Incomplete documents,True
+CLM-4616467E,POL-B163B662,2024-01-21,360208,Repair of broken tail light,Approved,,False
+CLM-8702FC0D,POL-35CE6042,2023-11-22,399866,Claim dispute with insurer,Rejected,Fraud suspicion,True
+CLM-80B027B6,POL-9E4EA504,2023-12-11,84198,Water damage to electronic devices,Rejected,Coverage does not apply,False
+CLM-3CD85D79,POL-ABEE9A65,2024-06-29,239463,Disability claim due to workplace injury,Rejected,Coverage does not apply,False
+CLM-D2ED89B3,POL-B41DAB2F,2023-11-20,380443,Life insurance payout for illness,Rejected,Coverage does not apply,False
+CLM-41940E63,POL-C443AFFA,2025-04-10,275926,Repair costs for collision damage,Pending,,False
+CLM-048A2ACA,POL-B53AD058,2023-09-03,52252,Hospitalization due to injury,Rejected,Coverage does not apply,True
+CLM-825EC2C8,POL-BE83ECE7,2024-04-20,484769,Claim for permanent disability,Pending,,False
+CLM-52C711FD,POL-EB113012,2023-09-09,477990,Lost baggage claim,Rejected,Fraud suspicion,False
+CLM-E161F3FD,POL-E437A552,2024-05-20,375639,Customer complaint on claim delay,Approved,,True
+CLM-63310D4D,POL-8F2FBFAB,2025-03-12,327547,Fraudulent claim detection,Rejected,Incomplete documents,False
+CLM-DE032985,POL-76043162,2023-09-19,260050,Medical expenses for surgery,Pending,,True
+CLM-E2F0DAC3,POL-F3A195FD,2025-03-28,444990,Lost personal items during travel,Rejected,Fraud suspicion,False
+CLM-CE9BD5C6,POL-DF38203B,2024-12-27,167560,Hospital expenses for childbirth,Pending,,False
+CLM-BFB01330,POL-246F6416,2024-07-29,49420,Storm damage to property,Pending,,True
+CLM-B835E6B3,POL-6375426C,2025-01-20,431831,Lost baggage reimbursement,Pending,,False
+CLM-35D0EE5A,POL-286C12E2,2025-02-27,201304,Repair of damaged car parts,Rejected,Fraud suspicion,True
+CLM-BD6E728A,POL-22ADD718,2025-01-23,332217,Fraudulent claim detection,Rejected,Policy expired,True
+CLM-6C639D83,POL-75B0BE44,2024-06-09,426841,Lost personal items during travel,Pending,,True
+CLM-50A4FF98,POL-5F59D9FC,2024-01-22,171922,Medical expenses for stroke treatment,Approved,,False
+CLM-84E437B0,POL-9CF685BC,2023-07-09,424744,Lost baggage claim,Approved,,False
+CLM-33D12F84,POL-B760B2C9,2025-04-06,469433,Storm damage to property,Approved,,False
+CLM-5AF4972C,POL-2152EB90,2023-11-04,391789,Claim for temporary disability,Approved,,True
+CLM-B4B314CA,POL-D9C37CBF,2024-09-08,323825,Claim for lost luggage,Approved,,False
+CLM-C96EEF71,POL-132BDF8D,2024-09-01,74734,Repair of cracked windshield,Pending,,True
+CLM-31934AF2,POL-E5512DB7,2025-01-17,59949,Reimbursement for emergency surgery,Approved,,True
+CLM-B6E7AC0A,POL-3E480A71,2025-04-05,331415,Theft claim for stolen vehicle,Pending,,False
+CLM-289AA2E5,POL-70C3B080,2024-04-14,323829,Repair costs for accident damage,Approved,,True
+CLM-4AB734C3,POL-0FD468A4,2025-05-03,77116,Repair of windshield cracks,Approved,,True
+CLM-6A381DAD,POL-04B25DA3,2024-06-24,279816,Claim for lost electronics during travel,Pending,,False
+CLM-96928160,POL-ACEDBE46,2025-03-08,378671,Claim rejection appeal,Approved,,False
+CLM-398EC236,POL-E357F014,2024-12-24,169988,Loss of luggage claim,Approved,,True
+CLM-44A01C48,POL-CA69725F,2025-01-25,293217,Customer complaint on claim delay,Rejected,Coverage does not apply,False
+CLM-1AE1D9A5,POL-EAC661B0,2025-01-05,374236,Repair of damaged car parts,Rejected,Fraud suspicion,True
+CLM-50D7DBEF,POL-6891F8D8,2023-06-08,166788,Customer dissatisfaction with claims,Pending,,False
+CLM-4C9E13AC,POL-5A0EE908,2023-09-27,207502,Repair of broken tail light,Pending,,False
+CLM-BBF7CCD9,POL-8495A4C5,2024-05-16,347915,Water damage to home,Approved,,True
+CLM-D8F02F4E,POL-885D1239,2024-07-12,83507,Storm damage to home,Pending,,True
+CLM-402D0E29,POL-CB70337B,2025-03-17,108740,Delayed baggage claim,Approved,,False
+CLM-991304B4,POL-6F432952,2024-07-22,303462,Hospital stay for illness,Approved,,True
+CLM-98BDEF2A,POL-0B5F679C,2024-09-11,141176,Fire damage to home,Approved,,False
+CLM-4180930A,POL-86A3E7E2,2025-05-21,69430,Life insurance payout for accident,Rejected,Incomplete documents,False
+CLM-A514A524,POL-C2EF0996,2023-12-13,152518,Flood damage to basement,Rejected,Policy expired,False
+CLM-0B44A080,POL-E1ABD3B3,2024-03-29,372148,Delay in claim settlement,Approved,,True
+CLM-9E709C02,POL-D9E44017,2024-07-17,234294,Claim for partial disability,Approved,,False
+CLM-9C2AB1B3,POL-BA8FE4BE,2023-11-29,397628,Claim for loss of limb,Pending,,True
+CLM-319A0AF3,POL-A5D29AAD,2024-05-19,476523,Claim for permanent injury,Approved,,True
+CLM-E7EC1B09,POL-8C8F32F1,2025-02-25,188314,Loss of valuables claim,Rejected,Incomplete documents,True
+CLM-99873998,POL-05D07B26,2025-01-14,312810,Lost baggage during travel,Approved,,False
+CLM-BA070CF9,POL-BF66F1B2,2024-06-11,10149,Loss of personal items during travel,Rejected,Fraud suspicion,False
+CLM-276DED60,POL-76FD4AAF,2025-01-18,46085,Medical treatment for stroke,Rejected,Incomplete documents,True
+CLM-4F3812C3,POL-23F31055,2024-02-18,284756,Claim for permanent disability,Approved,,False
+CLM-4A7787B6,POL-1F2DC883,2024-08-18,19580,Reimbursement for physiotherapy,Rejected,Fraud suspicion,False
+CLM-DB8FEE42,POL-E1C47CE9,2024-07-09,438398,Claim rejection appeal,Pending,,True
+CLM-88F62680,POL-FA01D1CE,2023-07-07,411726,Reimbursement for diagnostic tests,Approved,,False
+CLM-CA10702E,POL-C77A8ECE,2023-08-25,360212,Loss of valuables claim,Pending,,True
+CLM-C58FFB9A,POL-6645E486,2023-09-22,305912,Fire damage to property,Approved,,False
+CLM-1C5F84DA,POL-932502F4,2023-12-03,248433,Repair of scratched paint,Approved,,False
+CLM-748B8847,POL-FFA75B50,2025-04-02,453166,Lost luggage reimbursement,Rejected,Policy expired,True
+CLM-4B47A0B6,POL-337DBC64,2024-12-25,97807,Delayed baggage claim,Approved,,True
+CLM-7CC5032F,POL-9F82BFB7,2024-08-15,56632,Flood damage to basement,Pending,,False
+CLM-7DC872E9,POL-83F8EBAC,2025-01-27,187186,Life insurance claim for accidental death,Rejected,Incomplete documents,False
+CLM-0870D160,POL-DDD2BBB7,2023-10-19,276268,Lost baggage reimbursement,Approved,,False
+CLM-210A2392,POL-1CCFDC19,2024-01-29,308111,Claim dispute over payout,Pending,,True
+CLM-2C4320D2,POL-511621AC,2023-08-22,378049,Repair of side mirror damage,Rejected,Incomplete documents,True
+CLM-FA5D8A5B,POL-0FEE4B89,2023-06-21,467467,Reimbursement for diagnostic tests,Pending,,True
+CLM-29D08088,POL-2934023C,2025-04-05,392396,Dispute over claim payout,Pending,,True
+CLM-89CB883F,POL-00D4344B,2023-06-16,207716,Hospitalization due to accident,Rejected,Fraud suspicion,False
+CLM-056B2935,POL-06D3EC33,2023-12-30,255333,Customer dissatisfaction with claim process,Pending,,True
+CLM-6400C61D,POL-DEBE8FF2,2025-03-06,471247,Hospital expenses for childbirth,Approved,,False
+CLM-49B24BEB,POL-EC22B088,2024-03-25,54498,Claim for temporary disability,Pending,,False
+CLM-035252E8,POL-3052F4D7,2024-06-23,300101,Loss of valuables in theft,Pending,,False
+CLM-3533D9D6,POL-BE4CA3F5,2023-11-26,452139,Life insurance claim due to natural death,Rejected,Fraud suspicion,False
+CLM-81B38F31,POL-8008B02D,2023-12-27,97799,Hospitalization due to chronic illness,Rejected,Policy expired,False
+CLM-04A8F9C9,POL-7CECC0FD,2023-11-02,81650,Claim dispute over rejection,Pending,,False
+CLM-F0F66180,POL-22BF6E58,2024-08-01,237849,Claim for loss of fingers,Rejected,Incomplete documents,True
+CLM-3C68C0DC,POL-D6745AA1,2025-02-19,149331,Medical expenses for heart surgery,Rejected,Fraud suspicion,False
+CLM-514EEDAE,POL-3BAE809E,2024-05-10,266998,Life insurance claim for terminal illness,Rejected,Incomplete documents,True
+CLM-A014B459,POL-B5475E11,2023-07-10,271663,Accidental injury claim,Rejected,Coverage does not apply,False
+CLM-3BE2129C,POL-C8966603,2024-09-01,366331,Damage caused by storm,Approved,,False
+CLM-DA4F9AF1,POL-F919CFF7,2023-07-14,358552,Medical expenses for cancer treatment,Pending,,True
+CLM-EE8F1835,POL-BC33A209,2024-05-24,39858,Compensation for permanent disability,Pending,,False
+CLM-BB10DF95,POL-74C71992,2024-12-16,276046,Claim dispute over settlement amount,Pending,,False
+CLM-5A387B91,POL-28838863,2025-03-17,117614,Life insurance claim for accidental death,Rejected,Coverage does not apply,True
+CLM-4BEA43A6,POL-8066B58B,2025-01-07,78881,Claim dispute with insurer,Pending,,False
+CLM-EF3DCDE9,POL-AEF5F2F2,2024-07-21,163093,Hospitalization due to injury,Pending,,True
+CLM-4BC73425,POL-9B6EF095,2023-05-31,240584,Claim dispute over settlement amount,Approved,,False
+CLM-8CD82972,POL-EAA13346,2024-12-29,432327,Accidental death claim,Approved,,True
+CLM-1A1CA92E,POL-119EF812,2023-11-19,109614,Hospitalization for surgery,Rejected,Policy expired,False
+CLM-CF95F767,POL-E59D4511,2024-12-24,438951,Hospitalization for respiratory illness,Pending,,True
+CLM-6DA5003A,POL-B1382C4E,2024-12-13,321313,Life insurance claim payout,Rejected,Policy expired,True
+CLM-9C086200,POL-32C4E01F,2024-11-25,42261,Life insurance payout request,Approved,,False
+CLM-EA6E261C,POL-93487697,2024-05-22,271345,Customer complaint on claim,Pending,,False
+CLM-DCE50C32,POL-7A2601D8,2023-09-10,18641,Life insurance claim payout,Approved,,False
+CLM-F67219E8,POL-F483F663,2023-06-30,178255,Medical expenses for heart surgery,Rejected,Fraud suspicion,False
+CLM-97B8DDFA,POL-3A34074D,2024-09-24,447917,Repair of dented vehicle body,Approved,,False
+CLM-6738E82C,POL-571CE6ED,2024-05-16,137545,Lost luggage reimbursement,Approved,,True
+CLM-B203BEBC,POL-A1FD600B,2023-10-26,492915,Water damage to home,Approved,,False
+CLM-226C3582,POL-374169EB,2024-09-12,338309,Medical treatment for chronic illness,Rejected,Fraud suspicion,True
+CLM-C6D209DB,POL-D027D446,2023-10-20,412763,Medical treatment for disease,Approved,,False
+CLM-A6348EB8,POL-F22638CF,2023-10-07,95151,Medical treatment for injury,Approved,,True
+CLM-CC37211E,POL-73155238,2024-09-16,418554,Dispute over claim amount,Approved,,True
+CLM-5077054A,POL-7E7B40E8,2023-11-21,321593,Claim for loss of use of limb,Rejected,Policy expired,False
+CLM-4DF00741,POL-4CB83342,2024-05-02,384015,Medical expenses for allergy treatment,Rejected,Policy expired,True
+CLM-274F1EE9,POL-1CAC00C8,2025-04-20,178146,Claim dispute with insurer,Pending,,False
+CLM-37536C27,POL-931463CD,2024-08-01,376777,Loss of personal belongings,Pending,,False
+CLM-2C965F75,POL-1D97A5C6,2024-11-14,67050,Reimbursement for prescription drugs,Pending,,True
+CLM-390938E6,POL-EEF0BE29,2025-03-24,77034,Claim process dispute,Rejected,Coverage does not apply,True
+CLM-97378B28,POL-3230B3FF,2023-07-20,421292,Hospitalization for infection,Approved,,False
+CLM-132D6451,POL-2F6CE6C7,2024-04-13,478699,Medical expenses for stroke treatment,Approved,,True
+CLM-D4456B47,POL-F62F85FB,2024-05-02,381253,Fire damage to home interior,Rejected,Fraud suspicion,True
+CLM-D2262D31,POL-897408F5,2024-02-07,121633,Life insurance claim for accidental death,Pending,,False
+CLM-E96691CD,POL-906DF6E0,2023-06-06,155818,Claim for canceled trip expenses,Pending,,True
+CLM-A65B217B,POL-C472EFDF,2025-01-06,272518,Claim for loss of limb function,Approved,,True
+CLM-6864191B,POL-F1A6A5D9,2023-10-08,172219,Medical treatment for chronic disease,Rejected,Policy expired,True
+CLM-3A564609,POL-8293A9C0,2023-07-28,140891,Repair of car door damage,Pending,,False
+CLM-1E5AABEC,POL-46FC3719,2025-05-25,90526,Medical treatment for stroke,Rejected,Coverage does not apply,True
+CLM-D7F5B901,POL-13951461,2023-08-29,11038,Replacement of damaged home appliances,Pending,,True
+CLM-878B7F84,POL-734CD309,2023-11-25,349763,Water damage to furniture,Approved,,False
+CLM-199A88DA,POL-50EBDA21,2024-06-26,14409,Hospitalization for infection,Pending,,True
+CLM-3C46846B,POL-65323501,2023-10-03,362709,Medical expenses for heart surgery,Approved,,False
+CLM-5781D8E0,POL-789609C8,2025-01-03,225050,Reimbursement for medication,Pending,,False
+CLM-F79DC178,POL-007A7BCC,2024-03-19,216018,Repair of damaged car bumper,Pending,,False
+CLM-2A826167,POL-0C358496,2025-01-06,460571,Customer dissatisfaction with claim process,Rejected,Coverage does not apply,True
+CLM-788C80AF,POL-3AD74B81,2024-12-08,349721,Hospitalization for infection,Rejected,Fraud suspicion,False
+CLM-94365FE7,POL-3E2BC739,2023-07-21,268475,Claim for loss of foot,Approved,,True
+CLM-69304BE3,POL-FC382413,2023-08-04,135912,Customer dissatisfaction with claims,Approved,,False
+CLM-BD5598D1,POL-2C0D646F,2023-10-02,131331,Life insurance claim for illness,Approved,,False
+CLM-21F77D23,POL-5BC773E1,2024-08-06,231776,Repair for side mirror damage,Pending,,True
+CLM-53050AB6,POL-A0AF92B8,2024-11-09,461657,Life insurance claim due to illness,Pending,,False
+CLM-36F1C94C,POL-3F09EA14,2024-08-19,447270,Hospital stay due to disease,Approved,,True
+CLM-847F9082,POL-4671DF02,2024-09-30,256458,Delay in claim processing,Rejected,Incomplete documents,False
+CLM-D81FAC35,POL-705BF605,2024-09-16,196372,Lost baggage compensation,Pending,,True
+CLM-3FF93B7E,POL-931B288C,2024-01-13,369652,Medical treatment for asthma attack,Approved,,True
+CLM-CB51F410,POL-B60B7F33,2024-09-24,409085,Emergency dental treatment,Rejected,Fraud suspicion,True
+CLM-EB47AAD0,POL-494C29D3,2024-03-14,91483,Delay in claim processing,Pending,,False
+CLM-0E399934,POL-CAB1F345,2024-03-13,347862,Loss of luggage claim,Rejected,Coverage does not apply,False
+CLM-1754A894,POL-930C481D,2024-06-22,495186,Loss of personal items in transit,Pending,,False
+CLM-5F5FF794,POL-967251B4,2024-03-10,83255,Life insurance claim for natural death,Approved,,False
+CLM-68194201,POL-CB68559E,2024-08-06,269324,Death benefit claim,Approved,,True
+CLM-452BA99C,POL-2E9BE1C5,2024-07-28,74433,Theft of personal belongings from vehicle,Rejected,Policy expired,True
+CLM-6DA1B0FB,POL-54125EBF,2025-05-16,249395,Life insurance claim due to illness,Pending,,True
+CLM-D8C8F3BE,POL-0CDD32AE,2025-01-22,230387,Claim for permanent injury,Rejected,Coverage does not apply,True
+CLM-68828318,POL-F40E6F59,2024-03-09,296013,Life insurance payout for illness,Rejected,Incomplete documents,False
+CLM-0CEA3D3B,POL-0A8D7CE9,2024-02-09,292020,Fraudulent claim detection,Rejected,Fraud suspicion,True
+CLM-18E43502,POL-BF05C8C2,2024-07-30,198864,Hospitalization for respiratory illness,Approved,,True
+CLM-881B20E7,POL-1EDC16B4,2025-05-02,247829,Repair costs for vehicle damage,Pending,,False
+CLM-0E586B62,POL-1AFD3824,2023-05-28,370846,Claim for partial loss of use,Approved,,False
+CLM-06B4AC19,POL-5C45E2C4,2024-05-07,485320,Reimbursement for MRI scan,Approved,,True
+CLM-946B2000,POL-BE77E35C,2024-01-22,254621,Hospitalization for infection,Approved,,True
+CLM-42858E73,POL-3D5EEF41,2025-05-08,249131,Life insurance beneficiary update,Rejected,Incomplete documents,True
+CLM-A0A9F007,POL-511A2AC8,2023-10-16,293654,Fire damage to home,Rejected,Policy expired,False
+CLM-38EF6B24,POL-6347FB50,2024-06-09,94587,Loss of luggage claim,Approved,,True
+CLM-AA510578,POL-5A2F2BE2,2024-09-06,376572,Loss of personal belongings,Approved,,False
+CLM-30CDB2E2,POL-340C9014,2023-05-29,192096,Flood damage to basement,Pending,,True
+CLM-E9BA2992,POL-ED17407D,2023-09-27,158185,Lost luggage reimbursement,Approved,,False
+CLM-089E97B0,POL-C41D135E,2025-04-04,73392,Repair of damaged vehicle,Pending,,True
+CLM-ABFCA090,POL-F2EB2F5D,2024-01-25,164170,Repair of side mirror damage,Approved,,False
+CLM-FA3CFB1D,POL-6A89D5DC,2023-11-05,409926,Reimbursement for surgery,Pending,,True
+CLM-3E3842AE,POL-2DBA3632,2024-02-02,241301,Life insurance claim for natural death,Rejected,Incomplete documents,False
+CLM-6C1C8560,POL-7DF268E6,2023-10-30,329471,Lost baggage claim,Pending,,True
+CLM-5C3578A7,POL-331E3627,2025-02-15,191030,Claim for loss of limb function,Rejected,Policy expired,False
+CLM-C0505604,POL-C0123DBE,2025-03-11,344438,Loss of personal belongings,Pending,,True
+CLM-F585C0DB,POL-307EBDFC,2025-05-25,451727,Damage from flooding,Rejected,Incomplete documents,False
+CLM-58F0960A,POL-C8401C37,2024-01-23,125032,Hospitalization for surgery,Approved,,False
+CLM-DD00A94E,POL-5288C4EA,2024-04-12,163967,Investigation for fraudulent claim,Approved,,False
+CLM-7EA6BE2B,POL-2C201955,2024-10-08,60299,Complaint about claim process delay,Approved,,True
+CLM-7548499B,POL-7EA526BB,2023-10-19,456880,Hospitalization due to infection,Approved,,False
+CLM-7A48F651,POL-EDAD65E5,2023-09-17,304022,Claim for temporary disability,Pending,,False
+CLM-380D6E31,POL-18D0C7A8,2023-07-17,479816,Medical expenses for heart surgery,Rejected,Incomplete documents,False
+CLM-01B54277,POL-CEF664B2,2023-12-25,396096,Customer dissatisfaction with claim process,Pending,,True
+CLM-1DD438E5,POL-04294B6E,2024-07-23,397824,Hospitalization due to COVID-19,Rejected,Fraud suspicion,False
+CLM-DAE80095,POL-5CB44966,2024-06-26,155786,Repair costs for vehicle damage,Rejected,Incomplete documents,True
+CLM-8127A6E9,POL-47A478EE,2024-11-15,448448,Claim rejection appeal,Pending,,False
+CLM-2102FFDD,POL-3C2AEE68,2023-06-17,188985,Hospital stay due to accident,Approved,,True
+CLM-D4D4A4DE,POL-778DFC6B,2025-04-22,28559,Damage from tornado,Rejected,Incomplete documents,False
+CLM-EBFBA248,POL-693536C9,2023-06-22,288941,Flood damage to home,Approved,,False
+CLM-6826BBF5,POL-ED91EB91,2024-06-04,324859,Damage due to burglary,Pending,,False
+CLM-F911FA19,POL-46B9C3A7,2024-04-26,35972,Fire damage to property,Pending,,False
+CLM-A24FCD34,POL-B80F36FC,2023-10-14,307083,Repair of damaged tail light,Pending,,True
+CLM-BB69D806,POL-2C310C2D,2023-10-04,31454,Medical expenses for stroke treatment,Rejected,Incomplete documents,True
+CLM-00B7C63A,POL-C09A877C,2024-04-13,19552,Lost luggage reimbursement,Pending,,False
+CLM-3F2DBA0E,POL-7FB5798D,2023-08-21,482971,Life insurance claim for terminal illness,Rejected,Incomplete documents,True
+CLM-14B912B4,POL-D0545957,2023-10-06,437741,Life insurance claim for accident,Approved,,True
+CLM-38930941,POL-9FE42E56,2023-06-26,316443,Life insurance claim for natural death,Approved,,True
+CLM-256E5547,POL-DE378F49,2024-06-16,384484,Reimbursement for emergency surgery,Rejected,Policy expired,False
+CLM-7708760E,POL-84EA28EB,2024-11-15,331428,Complaint about claim process delay,Rejected,Policy expired,True
+CLM-E074663F,POL-197AFD29,2024-05-11,376434,Dispute over claim payment,Approved,,False
+CLM-B87FF361,POL-1300D090,2024-05-06,220025,Loss of valuables in theft,Approved,,False
+CLM-B60A971A,POL-BCD0D1BA,2023-07-11,402500,Repair costs for vehicle accident,Rejected,Incomplete documents,True
+CLM-EE0CB0F3,POL-691A3632,2024-05-24,188790,Reimbursement for medication,Pending,,False
+CLM-BE893CAF,POL-15533E5D,2024-05-22,351289,Claim for loss of eye sight,Rejected,Coverage does not apply,True
+CLM-47B94C35,POL-2E4168F8,2023-11-21,175594,Lost travel accessories claim,Rejected,Policy expired,False
+CLM-D1329C25,POL-FB0829AC,2024-11-03,124038,Claim for total disability,Rejected,Fraud suspicion,True
+CLM-236E9D96,POL-46354681,2024-02-09,283974,Repair of damaged car engine,Approved,,True
+CLM-C28B2A2A,POL-36367AF1,2025-05-08,472298,Hospitalization due to accident,Pending,,False
+CLM-59F208F1,POL-1ED8A901,2025-03-28,163951,Reimbursement for surgery,Approved,,False
+CLM-62657DB5,POL-17848B01,2025-05-16,311411,Hospitalization due to pneumonia,Pending,,True
+CLM-3F699D64,POL-F7E22075,2023-12-14,241807,Investigation of suspicious claim,Pending,,False
+CLM-168D2AC6,POL-B11CFA92,2024-08-10,481707,Repair of damaged car parts,Rejected,Coverage does not apply,False
+CLM-CE71C6C3,POL-2303C9C5,2023-10-04,207482,Hospitalization for infection,Pending,,False
+CLM-DE8FA42A,POL-4E58EF1D,2024-10-25,437363,Reimbursement for physiotherapy,Pending,,True
+CLM-C4D183D2,POL-9DCBFCD8,2023-07-30,463798,Claim for partial disability,Rejected,Policy expired,False
+CLM-0474A72B,POL-87AE7124,2025-05-16,280931,Loss of personal belongings claim,Pending,,True
+CLM-8DA348B6,POL-02305C7A,2023-06-27,73121,Claim for loss of hand,Approved,,False
+CLM-77FB4E29,POL-FE45C7C4,2024-04-07,218565,Repair costs for vehicle damage,Rejected,Policy expired,True
+CLM-055B65AC,POL-3E358536,2023-07-16,441692,Loss of luggage claim,Pending,,False
+CLM-DDA79611,POL-78A1A74B,2023-11-10,443769,Damage due to burglary,Approved,,False
+CLM-6DB84FA4,POL-19E1C6D0,2024-03-14,475751,Damage from burglary,Pending,,True
+CLM-7C9985AB,POL-B8CABEA4,2025-02-26,172956,Claim process dispute,Approved,,True
+CLM-E68C9B4D,POL-4BA6E888,2024-05-17,232798,Medical treatment for disease,Pending,,False
+CLM-169ECE38,POL-8D654A9A,2024-03-27,360190,Medical expenses for surgery,Rejected,Coverage does not apply,True
+CLM-A20D848E,POL-5AD62E90,2024-06-30,185687,Lost luggage reimbursement,Approved,,False
+CLM-CF0220D4,POL-EDC7CC21,2023-06-04,47002,Loss of personal items during travel,Approved,,False
+CLM-90C0CF30,POL-068938DB,2023-05-29,446002,Reimbursement for surgery,Pending,,True
+CLM-4F19F814,POL-31C5CDC4,2025-02-11,83280,Medical expenses for heart surgery,Pending,,False
+CLM-A4807607,POL-DDB6089E,2025-03-06,273303,Life insurance claim payout,Approved,,True
+CLM-545C0993,POL-2787972A,2023-07-01,74004,Life insurance claim due to accident,Approved,,True
+CLM-42E15569,POL-142CB46E,2024-03-02,203059,Flood damage to basement,Pending,,True
+CLM-DB050C10,POL-3FFF9A48,2024-10-05,237229,Hospitalization for respiratory illness,Rejected,Incomplete documents,True
+CLM-9CAB7DA5,POL-FED1A5DA,2023-08-21,495998,Life insurance payout request,Pending,,True
+CLM-FF4CB08C,POL-3BA920BE,2025-01-16,186910,Life insurance payout request,Pending,,False
+CLM-076C16C0,POL-421C0887,2024-10-03,13377,Customer dissatisfaction with claim process,Rejected,Policy expired,True
+CLM-8B55BA75,POL-E4FF73CB,2023-09-11,96686,Claim delay complaint,Rejected,Coverage does not apply,False
+CLM-CCD32FC9,POL-3DEBD752,2024-03-19,213510,Claim for lost passport during trip,Rejected,Fraud suspicion,True
+CLM-03402253,POL-1933922A,2023-08-20,30204,Repair costs for vehicle collision,Rejected,Fraud suspicion,False
+CLM-105D226F,POL-4F7B2464,2024-09-14,31361,Water damage claim,Rejected,Coverage does not apply,False
+CLM-661A1164,POL-A3F7F5A6,2023-07-20,166119,Fire damage to kitchen appliances,Pending,,True
+CLM-94455D82,POL-533C3426,2023-07-08,243677,Investigation for fraudulent claim,Pending,,True
+CLM-7D77835E,POL-250D4411,2024-12-25,460337,Fire damage to furniture,Approved,,False
+CLM-EA164A6E,POL-330AE220,2024-09-03,363062,Claim for partial disability,Approved,,True
+CLM-2E05B03B,POL-B3875A8C,2024-09-10,332034,Reimbursement for physiotherapy,Pending,,False
+CLM-00E9ACBD,POL-BD849C56,2023-11-28,255233,Life insurance payout request,Rejected,Coverage does not apply,False
+CLM-D2A6CE6D,POL-6992E4D4,2023-07-16,102629,Medical expenses for heart surgery,Rejected,Coverage does not apply,True
+CLM-4370B282,POL-403BFE87,2025-05-26,30352,Life insurance claim for accident victim,Rejected,Policy expired,False
+CLM-4C7AC0DF,POL-4ED15465,2024-11-23,388815,Lost luggage claim,Pending,,False
+CLM-53690AB5,POL-36AB407C,2023-12-12,167493,Life insurance claim for illness,Rejected,Coverage does not apply,False
+CLM-6980B9BB,POL-B907682F,2024-02-05,465249,Life insurance claim for accidental death,Pending,,False
+CLM-DDA45051,POL-D0A9ABDD,2024-04-30,492828,Claim for loss of foot,Rejected,Fraud suspicion,True
+CLM-0C77A612,POL-29E08C52,2024-02-12,332899,Claim for travel delay,Approved,,False
+CLM-9A6C6436,POL-7050AACF,2024-08-02,360039,Claim for loss of hearing,Pending,,True
+CLM-67AD7822,POL-13BB5D64,2025-01-10,495252,Repair of broken tail light,Approved,,False
+CLM-DB3D8FF1,POL-07E7DFBF,2024-05-23,133082,Loss of valuables in theft,Pending,,False
+CLM-A1DE519D,POL-9930DD06,2023-10-24,326971,Storm damage to property,Rejected,Policy expired,False
+CLM-56E48ED3,POL-1D52D75F,2024-06-02,148444,Repair of car door damage,Rejected,Coverage does not apply,False
+CLM-59CC58B1,POL-1F94641E,2023-08-15,419012,Repair costs for accident damage,Approved,,True
+CLM-9F447656,POL-5815B6E1,2025-05-17,59382,Water damage claim,Pending,,True
+CLM-6B3435C8,POL-19494B82,2024-07-19,363512,Claim for loss of hearing ability,Rejected,Policy expired,False
+CLM-1492468D,POL-14729CC2,2025-01-28,248646,Life insurance claim for natural death,Approved,,False
+CLM-3C30E6B4,POL-590CA267,2024-01-14,191582,Loss of travel documents,Rejected,Incomplete documents,True
+CLM-FBF093BA,POL-6C19702B,2024-08-22,128977,Car accident damages,Rejected,Incomplete documents,True
+CLM-F661036C,POL-E4129E7A,2023-06-06,13314,Life insurance claim due to accident,Pending,,True
+CLM-8B695837,POL-DB26231E,2023-11-21,224732,Theft claim for stolen vehicle,Rejected,Fraud suspicion,False
+CLM-0913B460,POL-4C3C016D,2025-04-18,303893,Claim dispute over rejection,Rejected,Policy expired,False
+CLM-D3B642E3,POL-E8B0F75A,2023-06-22,208739,Repair of damaged car parts,Approved,,False
+CLM-0960855D,POL-65E06334,2024-04-02,22811,Repair costs for vehicle accident,Approved,,True
+CLM-0CD44FF0,POL-B13F1B07,2024-06-28,414818,Water damage claim,Approved,,True
+CLM-153CCFC4,POL-2ED8A525,2023-09-21,292027,Life insurance claim for accidental death,Pending,,True
+CLM-AC9116EA,POL-2D47540A,2023-10-27,344571,Flood damage to home,Approved,,False
+CLM-78BC0CFE,POL-7CF5A0A0,2023-08-22,365198,Fraudulent claim detection,Pending,,False
+CLM-766D3B9E,POL-815E6286,2024-12-08,264886,Loss of valuables during trip,Approved,,False
+CLM-0F9EE8EB,POL-77E0828A,2023-12-25,90955,Medical treatment for injury,Pending,,False
+CLM-93FA55A6,POL-B1B6C985,2023-08-16,343119,Medical treatment for heart disease,Approved,,False
+CLM-671FCB7C,POL-D9BE136F,2023-06-09,155699,Customer dissatisfaction with claim process,Approved,,True
+CLM-907FFAB1,POL-3723AC6F,2025-04-05,342243,Fire damage to home interior,Approved,,True
+CLM-06AA50A1,POL-BB15FA50,2024-02-14,103082,Fire damage to home,Approved,,False
+CLM-2604A5AE,POL-28B0D7A5,2024-08-18,78087,Flood damage to home,Approved,,True
+CLM-06EF6B29,POL-94101B82,2024-09-06,323930,Claim for loss of hearing ability,Rejected,Policy expired,True
+CLM-7E05AECE,POL-72A272DD,2024-08-11,249959,Hospitalization due to pneumonia,Approved,,False
+CLM-11F86381,POL-01DF2232,2024-07-01,341137,Damage due to burglary,Pending,,True
+CLM-96F83CA5,POL-77806630,2023-06-12,257404,Claim for loss of limb,Approved,,False
+CLM-8271FA0D,POL-BC419C25,2023-07-07,153151,Repair of engine damage after accident,Approved,,False
+CLM-DFD23FE9,POL-C8985818,2025-04-19,35561,Medical treatment for injury,Approved,,False
+CLM-D2CD4884,POL-6FB67AB8,2023-10-23,371468,Hospitalization due to pneumonia,Pending,,False
+CLM-B18FB14E,POL-A44D14CE,2023-07-01,491877,Replacement of damaged home appliances,Approved,,True
+CLM-B48AD9CF,POL-6685E500,2023-11-14,376733,Medical treatment for asthma attack,Pending,,True
+CLM-5D22A42F,POL-58158E8A,2024-08-15,229586,Medical expenses for allergy treatment,Pending,,True
+CLM-95163A52,POL-8EEDCF29,2025-05-11,294342,Claim for lost income due to disability,Rejected,Incomplete documents,False
+CLM-0D7EB02D,POL-9AE65D37,2024-01-23,264381,Repair of damaged car parts,Pending,,False
+CLM-D7DAF41A,POL-6EBC6815,2023-12-30,321143,Life insurance payout for accident,Rejected,Fraud suspicion,False
+CLM-AC6E8CFB,POL-4F476EA8,2023-06-21,216360,Life insurance claim for natural death,Pending,,False
+CLM-4F5F0E7D,POL-D16BBB12,2023-12-18,412987,Repair costs for accident damage,Rejected,Coverage does not apply,False
+CLM-7835AD27,POL-2D907493,2024-06-21,379883,Repair for car dent and scratches,Rejected,Policy expired,True
+CLM-BF42C4B0,POL-C87ED145,2023-12-09,266181,Repair costs for vehicle damage,Pending,,True
+CLM-36C66D23,POL-75E5929C,2023-06-15,25150,Life insurance claim due to natural death,Approved,,True
+CLM-7CA2E961,POL-BDBC7B7C,2023-11-03,138498,Hospitalization due to infection,Approved,,True
+CLM-D7886F6C,POL-84D1CDC2,2023-12-25,209099,Hospitalization due to chronic illness,Approved,,False
+CLM-FFC4EE74,POL-CA6C6807,2023-11-04,243283,Reimbursement for hospital stay,Approved,,False
+CLM-049F5F4C,POL-5DB7C1E8,2023-10-01,120802,Repair costs for accident damage,Approved,,False
+CLM-C9802CAE,POL-07740884,2024-10-22,52091,Reimbursement for medication,Pending,,False
+CLM-232C81EE,POL-96B89E0B,2024-05-31,242528,Customer dissatisfaction with claim process,Approved,,True
+CLM-A223FE69,POL-F636B223,2025-03-03,391706,Hospitalization for surgery,Rejected,Policy expired,False
+CLM-AEDDF3AA,POL-CB47EF83,2024-07-06,401932,Medical expenses for heart surgery,Rejected,Coverage does not apply,False
+CLM-6A6EDD2C,POL-1CC6F35B,2024-05-29,47491,Medical emergency overseas,Rejected,Coverage does not apply,False
+CLM-C47AF5DA,POL-0805350D,2025-04-27,359702,Hospital expenses for childbirth,Pending,,False
+CLM-65E075BA,POL-3AE39CD1,2023-08-05,200343,Reimbursement for medication,Approved,,False
+CLM-CD3F5C6F,POL-E43B56B8,2024-09-25,211911,Claim for loss of hearing ability,Approved,,True
+CLM-BE9C5DFF,POL-719467A9,2025-01-26,495795,Damage from flooding,Approved,,True
+CLM-A17553C7,POL-F0EB1EDB,2023-10-29,182194,Reimbursement for surgery,Pending,,False
+CLM-B63B40D2,POL-00FDE704,2024-03-26,117102,Storm damage to property,Pending,,True
+CLM-9283366D,POL-B0F2CC13,2025-03-30,218142,Repair of car door damage,Pending,,False
+CLM-76B82502,POL-E0013555,2024-01-08,76794,Life insurance payout request,Rejected,Coverage does not apply,True
+CLM-3F068134,POL-6E8BFEFA,2024-07-07,332578,Reimbursement for surgery,Approved,,False
+CLM-F960163C,POL-034290F1,2024-10-24,243623,Claim rejection appeal,Approved,,True
+CLM-A2934131,POL-6E27F678,2024-09-06,176792,Life insurance claim for accidental death,Rejected,Policy expired,False
+CLM-5F32E294,POL-BFC045E6,2024-09-28,164401,Hospital stay due to heart attack,Approved,,False
+CLM-2B1E082B,POL-61E50E22,2025-03-01,40636,Claim rejection appeal,Rejected,Policy expired,True
+CLM-B1D4300D,POL-59D304CB,2025-05-04,353146,Claim for loss of foot,Rejected,Policy expired,True
+CLM-E012D917,POL-E14AA576,2025-05-05,101084,Disability claim due to workplace injury,Approved,,True
+CLM-C63901E2,POL-B8CBE3CD,2024-07-08,280505,Reimbursement for prescription drugs,Pending,,True
+CLM-6DAB9280,POL-B7E881D1,2024-06-14,266523,Claim for lost income due to disability,Rejected,Policy expired,False
+CLM-28537397,POL-21BBF3E4,2025-04-02,172362,Reimbursement for emergency surgery,Approved,,True
+CLM-B514D4E0,POL-5AA9762E,2025-03-15,211479,Life insurance payout for accident,Pending,,False
+CLM-1400616C,POL-46D8874B,2023-09-29,58974,Repair costs for accident damage,Pending,,False
+CLM-DC2DFCDF,POL-901A07A5,2024-03-04,456230,Claim process dispute,Approved,,True
+CLM-492E7941,POL-1F407BC9,2024-02-18,217692,Medical expenses for diabetes treatment,Pending,,True
+CLM-3B50B964,POL-1BF1355D,2024-02-24,14646,Repair of damaged car parts,Pending,,True
+CLM-F195ADDF,POL-6A547DF4,2024-07-19,95593,Repair of damaged car bumper,Pending,,False
+CLM-A6DD6CCD,POL-56E370B9,2023-08-26,339968,Lost baggage compensation,Approved,,False
+CLM-9FE1ECFF,POL-6E19F5E2,2023-06-16,407214,Claim for loss of hand,Rejected,Coverage does not apply,True
+CLM-12A31996,POL-764613F0,2023-07-01,206608,Theft of personal belongings from vehicle,Pending,,False
+CLM-F8C3D658,POL-0033679D,2023-06-30,193178,Flood damage to basement,Approved,,True
+CLM-E3DB9CE4,POL-E217340A,2024-06-18,263265,Reimbursement for ambulance charges,Pending,,False
+CLM-F4783ACA,POL-88A786B8,2023-08-08,389815,Fire damage to house,Rejected,Incomplete documents,True
+CLM-B81536EE,POL-5C953388,2024-12-23,42126,Hospitalization due to infection,Approved,,False
+CLM-888C140D,POL-1297C7AD,2024-03-31,443669,Claim for permanent injury,Approved,,True
+CLM-8A872F0B,POL-B3DB7C13,2024-06-05,495939,Medical expenses for allergy treatment,Pending,,True
+CLM-DD651EFE,POL-F685C041,2025-01-19,107514,Damage caused by storm,Pending,,True
+CLM-5CC83DA7,POL-BEDBC664,2023-08-18,167137,Hospital stay due to disease,Approved,,False
+CLM-784BFECE,POL-4218EE15,2025-03-04,180155,Life insurance payout for cancer patient,Rejected,Policy expired,False
+CLM-4918B973,POL-E99377A1,2023-09-07,378358,Claim dispute over denial,Approved,,False
+CLM-C1133CAB,POL-1360902D,2025-03-23,270527,Claim delay complaint,Pending,,True
+CLM-D7F1AF3E,POL-C3E03E1F,2024-03-18,413841,Loss of valuables claim,Pending,,False
+CLM-A73542F8,POL-B3E430F5,2023-11-14,327340,Repair of damaged vehicle,Approved,,False
+CLM-D16332FD,POL-057646BA,2024-08-26,278491,Hospitalization due to illness,Approved,,True
+CLM-909D968A,POL-02F091DA,2024-09-11,237140,Fire damage to home,Pending,,True
+CLM-8C01B532,POL-2814C913,2024-09-03,405098,Loss of personal belongings claim,Approved,,True
+CLM-E7FD83EF,POL-2A9E6D1B,2023-12-26,337543,Claim for loss of hearing,Approved,,False
+CLM-C474877B,POL-AF6EBE8B,2024-03-18,188686,Lost baggage claim,Pending,,False
+CLM-C0ECE3AD,POL-643584C6,2024-12-06,417964,Damage caused by storm,Rejected,Coverage does not apply,False
+CLM-86B2A304,POL-B628C28E,2024-08-27,360744,Hospital stay due to heart attack,Approved,,True
+CLM-F0A78E2F,POL-9DA82CE8,2023-06-08,11102,Loss of personal items claim,Rejected,Coverage does not apply,False
+CLM-1EBD4E74,POL-8225EF5C,2024-04-23,491456,Customer dissatisfaction with claims,Pending,,True
+CLM-23A0892E,POL-30D05193,2024-10-25,399456,Hospital stay for serious injury,Approved,,False
+CLM-D5AA1F20,POL-F50B38CC,2025-04-04,168783,Repair costs for accident damage,Pending,,True
+CLM-A110AF01,POL-774EBC1B,2024-10-13,47475,Claim for canceled trip expenses,Approved,,False
+CLM-44AE15D8,POL-D25DFD06,2023-08-14,51288,Water damage to home,Rejected,Fraud suspicion,False
+CLM-36E4E400,POL-E8A14E3C,2025-01-17,62226,Fraudulent claim investigation,Rejected,Coverage does not apply,False
+CLM-DCAC4D48,POL-5BF93E24,2024-11-20,186393,Repair of scratched paint,Approved,,False
+CLM-9B080297,POL-00B8F742,2024-11-20,244229,Hospital stay for appendicitis,Rejected,Fraud suspicion,False
+CLM-8F14D7BA,POL-91B2EDB3,2023-06-27,10156,Life insurance claim for accidental death,Pending,,False
+CLM-C1CDB40A,POL-98DEED93,2024-12-26,95220,Life insurance payout request,Pending,,True
+CLM-B0A040A6,POL-76CC4BF9,2023-08-13,15578,Loss of luggage reimbursement,Pending,,True
+CLM-BD4A89FD,POL-E93C6DD1,2023-08-03,131498,Repair of damaged car parts,Pending,,True
+CLM-6D64AE48,POL-B3FDAB56,2025-03-14,358556,Claim for loss of use of limb,Rejected,Incomplete documents,False
+CLM-60324D0A,POL-AEAF60C6,2025-05-17,193710,Loss of luggage reimbursement,Rejected,Fraud suspicion,True
+CLM-23DCC627,POL-CF740AFB,2024-09-11,407995,Repair of damaged car parts,Approved,,False
+CLM-5773D8E9,POL-0A9047D4,2024-11-11,306964,Theft of personal belongings from vehicle,Rejected,Coverage does not apply,True
+CLM-4D8A0073,POL-AE167DDF,2023-11-28,77896,Claim for loss of fingers,Pending,,True
+CLM-13F44FFA,POL-2EB494FE,2025-03-06,317227,Repair costs for accident damage,Rejected,Incomplete documents,False
+CLM-9A47CC3A,POL-C6C9475B,2024-10-11,202194,Hospital stay due to injury,Rejected,Policy expired,True
+CLM-182793E1,POL-F52BDD1E,2025-04-14,425510,Fire damage to property,Approved,,False
+CLM-19720427,POL-245F9ACD,2024-02-07,107159,Reimbursement for medication,Rejected,Coverage does not apply,False
+CLM-0691F083,POL-E8367C0F,2024-09-02,265196,Hospitalization due to chronic illness,Approved,,False
+CLM-4A1F3508,POL-46F9088A,2025-01-21,430108,Claim dispute with insurer,Approved,,True
+CLM-016E5C24,POL-C42B1F02,2023-12-06,229623,Customer complaint on claim,Approved,,True
+CLM-DAC3EC0E,POL-87A8ED76,2023-11-16,86180,Fire damage to kitchen,Pending,,True
+CLM-6425CD60,POL-73494D5F,2025-01-18,403012,Claim dispute with insurer,Rejected,Fraud suspicion,False
+CLM-F3570647,POL-3D471D8C,2023-09-02,382629,Medical treatment for injury,Rejected,Policy expired,True
+CLM-254B8F0E,POL-C0536417,2023-07-08,476903,Lost luggage reimbursement,Approved,,False
+CLM-61213502,POL-75BEEEEF,2024-06-08,148510,Replacement of damaged home appliances,Approved,,True
+CLM-370FA666,POL-D01E4BE7,2023-08-13,334583,Lost baggage compensation,Rejected,Coverage does not apply,True
+CLM-0B09F988,POL-0B6C2D4F,2025-05-14,332339,Medical expenses for stroke treatment,Rejected,Incomplete documents,True
+CLM-CA8F4C3B,POL-E0C88334,2023-06-25,235277,Death benefit payout,Approved,,False
+CLM-7747E792,POL-A3A35D66,2023-05-30,275897,Lost baggage compensation,Approved,,True
+CLM-8B19D626,POL-05F127DA,2024-06-25,280545,Life insurance payout request,Rejected,Fraud suspicion,True
+CLM-F7DA0839,POL-39930E11,2023-06-18,123813,Storm damage to property,Approved,,False
+CLM-AB9D53FD,POL-70E8300B,2024-10-29,410478,Damage caused by storm,Pending,,False
+CLM-F599F379,POL-17FFDDF6,2025-04-14,289434,Medical expenses for surgery,Pending,,False
+CLM-B7ADAF41,POL-4D50B3B1,2025-03-15,201339,Medical expenses for cancer treatment,Rejected,Incomplete documents,False
+CLM-73821DA0,POL-089FB31F,2024-11-09,275470,Life insurance claim for terminal illness,Pending,,False
+CLM-03B6A7F4,POL-7A6C2B13,2024-01-29,59317,Medical expenses for heart surgery,Rejected,Policy expired,True
+CLM-A1815F9A,POL-0870D0A5,2024-02-02,83998,Loss of personal belongings claim,Pending,,False
+CLM-A66ECC7E,POL-2E7178B9,2023-10-25,361576,Repair costs for vehicle damage,Approved,,True
+CLM-308BD980,POL-CAAC9BDC,2024-01-12,250346,Hospital stay due to disease,Pending,,False
+CLM-38F5704B,POL-5DE7F712,2024-01-23,307146,Life insurance payout request,Approved,,True
+CLM-25EB2B29,POL-D33B05A8,2024-01-17,396207,Lost travel accessories claim,Pending,,True
+CLM-9B6B3E0E,POL-EBC99E1A,2024-05-22,318640,Reimbursement for medication,Approved,,False
+CLM-3B3B6C8A,POL-BFDF374B,2024-03-30,54589,Life insurance claim for terminal illness,Approved,,False
+CLM-877A34DE,POL-5FC7155A,2025-03-28,22202,Car vandalism repair,Pending,,False
+CLM-DDA0945A,POL-BDA2CFCE,2024-08-03,324432,Hospital stay for surgery,Approved,,False
+CLM-5D629C18,POL-1FE4C85E,2024-07-09,290101,Delay in claim settlement,Pending,,False
+CLM-F59D1A41,POL-7CFC6264,2024-07-13,152994,Claim for permanent injury,Pending,,True
+CLM-4F3D63CB,POL-0887C08C,2025-03-20,116950,Billing error on claim,Pending,,True
+CLM-26F13615,POL-158CA350,2024-12-10,151978,Life insurance payout request,Pending,,False
+CLM-A13CDF2F,POL-FA4C9FCE,2025-03-11,401203,Life insurance payout request,Approved,,False
+CLM-AD7EAC9D,POL-1E9EC0A4,2024-07-14,239714,Claim for hearing loss,Approved,,False
+CLM-3E37E6B7,POL-8F3449B4,2024-04-29,218122,Repair of damaged car parts,Pending,,False
+CLM-74857F0F,POL-FF2B0FC4,2024-03-07,100400,Fire damage to home interior,Pending,,True
+CLM-C7CB2D9B,POL-7A0B4C30,2023-09-15,345918,Hospital stay due to disease,Pending,,True
+CLM-6F1B9EFF,POL-8BE10BE5,2024-07-06,189748,Repair of car door dent,Pending,,True
+CLM-1BA68BF1,POL-D34E458B,2025-05-01,465357,Repair costs for vehicle damage,Pending,,False
+CLM-C62E05B5,POL-6D4B2DA6,2024-03-14,118451,Lost baggage during travel,Rejected,Fraud suspicion,False
+CLM-E317522D,POL-65931D79,2025-02-26,163298,Claim for loss of hand,Approved,,False
+CLM-61017004,POL-9E8D4657,2023-12-30,438011,Hospital stay for serious injury,Rejected,Coverage does not apply,True
+CLM-EB7DCCA0,POL-9D1C42AA,2024-12-10,482302,Loss of valuables in hotel theft,Approved,,False
+CLM-0554048C,POL-A1263FD7,2025-05-25,300079,Medical expenses for asthma,Rejected,Policy expired,False
+CLM-7612DC58,POL-16E65C41,2025-04-03,431128,Lost travel accessories claim,Pending,,True
+CLM-60B239FC,POL-2B259077,2023-12-26,326362,Accidental death claim,Rejected,Fraud suspicion,True
+CLM-3540D121,POL-41EA44A6,2024-02-29,131156,Lost baggage claim,Approved,,True
+CLM-314C1EFE,POL-F8FFD9F1,2023-08-28,207293,Life insurance claim payout,Pending,,False
+CLM-092DCD63,POL-18AA9A76,2024-03-31,118848,Lost baggage claim,Pending,,True
+CLM-0E530336,POL-5845CD60,2023-08-26,306518,Claim dispute with insurer,Approved,,False
+CLM-FD86E325,POL-E00610F6,2023-11-16,127689,Vehicle collision with another car,Approved,,False
+CLM-0BE23351,POL-64004864,2025-03-17,415545,Life insurance payout request,Approved,,False
+CLM-7ADA4932,POL-93037F6C,2023-08-30,301647,Lost travel accessories claim,Rejected,Fraud suspicion,True
+CLM-5EDE783D,POL-4232FE45,2024-03-03,177153,Unauthorized charges on policy,Pending,,False
+CLM-CEF2F781,POL-F08475F6,2023-08-01,100275,Medical treatment expenses,Approved,,True
+CLM-FD515774,POL-08DB5CE0,2025-03-13,30289,Fraudulent claim investigation,Rejected,Policy expired,True
+CLM-28083B31,POL-887EDB5B,2024-05-24,37512,Medical treatment for disease,Pending,,False
+CLM-02BB90A8,POL-37F0DEE6,2023-10-19,473357,Lost personal items during travel,Pending,,False
+CLM-44879F7D,POL-469CE30B,2024-11-27,151541,Loss of luggage claim,Pending,,True
+CLM-6EF422C2,POL-25045D0A,2024-12-25,424870,Medical treatment for heart disease,Approved,,True
+CLM-CF1111DB,POL-9AA00230,2024-08-12,133227,Claim for permanent disability,Rejected,Incomplete documents,True
+CLM-86E99107,POL-2EF23B45,2024-12-01,252538,Repair costs from hit and run,Approved,,True
+CLM-499C6A48,POL-C002498D,2025-04-07,252875,Claim dispute over denial,Approved,,True
+CLM-DB6695C3,POL-82F6CF3B,2024-08-20,135103,Repair costs from vehicle collision,Rejected,Fraud suspicion,True
+CLM-C94FA029,POL-E143AC21,2024-03-27,74048,Storm damage to home,Pending,,False
+CLM-E494C1F8,POL-A6A6FB5B,2024-01-30,378690,Claim for permanent disability,Rejected,Coverage does not apply,False
+CLM-FB2894B6,POL-644EB22E,2025-01-03,326268,Repair of car scratches,Pending,,False
+CLM-5A602BD4,POL-F610FF4F,2023-10-22,93679,Dispute over claim amount,Rejected,Fraud suspicion,False
+CLM-3947A067,POL-746DD3B4,2024-01-18,248505,Fire damage to furniture,Pending,,False
+CLM-AC75A65B,POL-A16E162F,2024-08-11,328421,Water damage to home,Approved,,False
+CLM-3D7AD642,POL-4169EF89,2023-06-10,405680,Storm damage to property,Pending,,True
+CLM-8393A882,POL-06CE305D,2024-05-29,395703,Hospital stay for illness,Pending,,True
+CLM-5ED31C9D,POL-E9C49B2F,2024-05-14,380840,Repair costs for accident damage,Rejected,Policy expired,True
+CLM-4F254EB4,POL-F227B9E9,2023-12-29,342635,Repair of broken tail light,Pending,,True
+CLM-160A2805,POL-22405B29,2023-10-06,68629,Medical treatment for disease,Approved,,True
+CLM-30867F78,POL-88DFA640,2023-07-27,493807,Claim for loss of hearing ability,Pending,,True
+CLM-9C9B6970,POL-C275C3C1,2023-10-23,195493,Claim for loss of hearing,Rejected,Incomplete documents,True
+CLM-83149FBF,POL-D8E3788B,2024-03-10,238742,Hospital stay for surgery,Approved,,True
+CLM-F9C5A5B3,POL-6F340928,2024-06-17,486751,Life insurance claim for natural death,Rejected,Fraud suspicion,False
+CLM-0ACF6EEF,POL-7529406A,2024-09-16,403536,Reimbursement for surgery,Approved,,False
+CLM-C57CF3C1,POL-88B024F6,2023-11-15,184541,Damage from flooding,Rejected,Fraud suspicion,False
+CLM-17587D31,POL-50066FD0,2023-12-27,40139,Flood damage to home,Pending,,False
+CLM-649500BE,POL-105AF969,2024-07-21,496254,Storm damage to property,Rejected,Policy expired,True
+CLM-8ADCE1D0,POL-A984AD98,2023-12-07,454512,Claim dispute over denial,Approved,,True
+CLM-96784BF5,POL-9FA46AA8,2025-05-13,491012,Life insurance payout for accident,Approved,,False
+CLM-DAC50C00,POL-A1DE236E,2024-11-21,209302,Claim rejection appeal,Rejected,Incomplete documents,False
+CLM-97F5352F,POL-759AE2E1,2024-03-07,316229,Claim for loss of use of limb,Pending,,False
+CLM-B442F37D,POL-4183494D,2023-08-26,165169,Customer complaint on claim settlement,Approved,,False
+CLM-2663334D,POL-159466CF,2025-05-09,416808,Water damage claim,Rejected,Policy expired,True
+CLM-8743EE66,POL-23C6B486,2023-10-22,263947,Reimbursement for physiotherapy,Rejected,Fraud suspicion,False
+CLM-16943F68,POL-6700132B,2023-10-17,55350,Medical treatment for heart disease,Pending,,False
+CLM-4A3589B3,POL-83DBBAC5,2024-07-18,64105,Claim for loss of use of limb,Rejected,Incomplete documents,False
+CLM-3A460A84,POL-299A74A7,2023-09-29,317086,Reimbursement for physical therapy,Rejected,Policy expired,True
+CLM-AD96D867,POL-EAB055D4,2024-03-22,81957,Life insurance claim for natural causes,Rejected,Incomplete documents,False
+CLM-E92757DD,POL-8D681D54,2023-06-17,225307,Delay in claim processing,Pending,,True
+CLM-0977E2A9,POL-95E8EE92,2024-07-04,360091,Claim for permanent disability,Rejected,Incomplete documents,True
+CLM-03A7CDF4,POL-8FDA859A,2024-02-27,30581,Repair costs for vehicle damage,Rejected,Fraud suspicion,False
+CLM-FB21859F,POL-C379F3CA,2024-08-13,107497,Reimbursement for medication,Approved,,True
+CLM-5BEC5EEC,POL-A65E9A5A,2023-06-13,102772,Life insurance claim payout,Approved,,True
+CLM-CB3A3CB6,POL-430E5AB2,2023-11-20,53923,Loss of valuables in hotel theft,Approved,,False
+CLM-CEFCB996,POL-B76A4B30,2024-05-29,310296,Claim for lost income due to disability,Rejected,Policy expired,False
+CLM-A939046B,POL-29230DCF,2024-04-07,479132,Life insurance claim for accident,Approved,,True
+CLM-AD8AB39D,POL-22D2581C,2025-01-20,391124,Loss of luggage claim,Pending,,True
+CLM-10FB452D,POL-97B185CD,2025-01-24,361274,Lost personal items during travel,Pending,,False
+CLM-3C9AF8AC,POL-095447B1,2024-04-14,208374,Fire damage to building,Pending,,False
+CLM-020EE0D3,POL-01F5FBB3,2024-01-23,183487,Claim for canceled trip expenses,Approved,,True
+CLM-6A149AB8,POL-1FEEDC2D,2024-11-26,40681,Medical expenses for cancer treatment,Pending,,True
+CLM-43E56125,POL-BC54D64D,2025-02-04,27445,Claim rejection dispute,Rejected,Incomplete documents,False
+CLM-7372B43B,POL-E5035916,2024-04-18,51261,Repair for car dent and scratches,Pending,,True
+CLM-385E2AD5,POL-DD558E0A,2023-05-30,109224,Reimbursement for chemotherapy,Pending,,False
+CLM-A51E851D,POL-71DDA6E6,2025-03-04,460273,Customer dissatisfaction with claim process,Rejected,Policy expired,False
+CLM-6D15FDF2,POL-21BE323E,2025-01-14,423194,Delayed baggage claim,Rejected,Policy expired,False
+CLM-F111E1BC,POL-D441BFDE,2024-05-01,156226,Claim dispute over denial,Approved,,False
+CLM-56D3B3E3,POL-6372832C,2023-07-09,499682,Medical expenses for chronic illness,Pending,,True
+CLM-BD5A61D0,POL-EC70C695,2023-08-17,167939,Hospital stay for disease,Rejected,Coverage does not apply,False
+CLM-26C3D77D,POL-B6E0AF43,2024-11-09,243012,Water damage claim,Rejected,Policy expired,False
+CLM-C8DECD2B,POL-753B72AE,2023-12-13,204467,Medical expenses for asthma,Rejected,Policy expired,True
+CLM-D8859D42,POL-7736318D,2024-04-10,289459,Fire damage to house,Approved,,True
+CLM-975D9867,POL-E101A1E2,2025-03-01,120688,Customer complaint on claim delay,Rejected,Policy expired,False
+CLM-16C982F7,POL-55E5432E,2023-10-28,399790,Claim for permanent disability,Pending,,True
+CLM-FCDED61A,POL-0B7C777D,2024-07-04,245617,Life insurance payout for accident,Rejected,Fraud suspicion,False
+CLM-D6909574,POL-7F6ACE52,2024-02-17,86958,Claim for canceled trip expenses,Pending,,False
+CLM-2322C57E,POL-EC568D17,2023-12-17,138410,Repair of broken tail light,Pending,,False
+CLM-7D76B7F0,POL-09E353B5,2025-02-03,234250,Fire damage to property,Pending,,True
+CLM-FAAE1A27,POL-A181EBB7,2023-09-24,314907,Hospital stay for appendicitis,Approved,,False
+CLM-CFA369E2,POL-0D930B34,2024-03-30,498377,Hospitalization due to COVID-19,Rejected,Incomplete documents,False
+CLM-67C136F4,POL-B4033624,2024-10-04,132024,Claim process delay,Rejected,Fraud suspicion,False
+CLM-2AA54D94,POL-EC87C594,2023-09-19,457759,Life insurance payout,Rejected,Incomplete documents,False
+CLM-D5D37AC2,POL-7BD4FA9D,2024-11-21,209276,Repair of engine damage after accident,Approved,,True
+CLM-6C97536F,POL-6A501D0F,2023-06-12,58843,Unauthorized charges on policy,Rejected,Fraud suspicion,False
+CLM-9451217C,POL-E2C158FF,2023-11-06,90207,Repair costs for accident,Rejected,Policy expired,False
+CLM-410D7E96,POL-0E3511B0,2023-05-28,54056,Hospital stay for serious injury,Rejected,Policy expired,False
+CLM-891EBCF8,POL-505167DF,2023-08-01,198247,Flood damage to property,Approved,,False
+CLM-746B16F1,POL-8270BFC5,2024-09-20,496063,Repair costs for vehicle accident,Pending,,True
+CLM-D6EE29EE,POL-0C368FC2,2024-06-11,299011,Claim for loss of hearing,Approved,,True
+CLM-D608430D,POL-D89854CC,2025-03-14,187050,Hospitalization due to COVID-19,Approved,,True
+CLM-E39DC23C,POL-28EC9CEF,2024-01-19,41444,Hospital stay for appendicitis,Rejected,Coverage does not apply,False
+CLM-589FFF6F,POL-0A1A7896,2025-01-18,108714,Water damage claim,Approved,,True
+CLM-45ECA08A,POL-A7A4959F,2024-05-26,424564,Life insurance payout,Rejected,Fraud suspicion,False
+CLM-CD3A6679,POL-BE74E221,2024-02-03,498978,Hospital stay for serious injury,Approved,,False
+CLM-934959AD,POL-3EEB0A00,2023-07-23,38624,Claim for loss of hand,Rejected,Coverage does not apply,False
+CLM-766BA8DB,POL-FF71BD22,2024-03-10,43668,Dispute over claim payment,Approved,,True
+CLM-F362EE14,POL-39282CC6,2024-01-12,20104,Hospitalization due to chronic illness,Approved,,True
+CLM-1A7D9992,POL-5ACAF9A2,2023-12-07,135532,Claim for loss of mobility,Approved,,True
+CLM-1503AE51,POL-A051BE0F,2024-01-12,440363,Reimbursement for ambulance charges,Rejected,Coverage does not apply,False
+CLM-9DBF2CA5,POL-4D9CD7E7,2024-08-31,301990,Claim for temporary disability,Rejected,Policy expired,True
+CLM-908F4B4A,POL-834D2660,2023-06-19,440731,Damage from hailstorm,Pending,,True
+CLM-BC66261E,POL-484F0EEB,2024-12-25,418977,Life insurance claim for natural causes,Rejected,Incomplete documents,False
+CLM-88CD38EA,POL-C1533F04,2024-08-11,10052,Repair costs for vehicle damage,Approved,,False
+CLM-58D28C27,POL-30CF8B90,2024-05-25,249890,Loss of valuables during trip,Rejected,Policy expired,True
+CLM-5BA79448,POL-8D02E5A1,2024-09-17,470512,Water damage claim,Pending,,False
+CLM-54B373DC,POL-A256FE19,2023-07-23,31536,Repair of car door damage,Pending,,False
+CLM-563315B0,POL-875DD9A0,2023-09-02,169396,Lost baggage during travel,Pending,,False
+CLM-D714806A,POL-CC6B47F9,2024-06-10,265360,Medical expenses for chronic illness,Pending,,True
+CLM-1FCF969C,POL-B01AE9A4,2024-11-26,83337,Repair of car door dent,Rejected,Incomplete documents,True
+CLM-F17E33D0,POL-5B44E8FB,2025-03-27,143455,Medical expenses for allergy treatment,Rejected,Policy expired,False
+CLM-D8BA8DCC,POL-2D2BB013,2023-06-13,67323,Water damage from burst pipe,Pending,,True
+CLM-B1BEA27D,POL-B4A1DBBA,2024-02-15,204171,Delay in claim processing,Pending,,True
+CLM-47483547,POL-572C9DD2,2025-05-24,155478,Fire damage to home exterior,Rejected,Incomplete documents,False
+CLM-925E338E,POL-D6AC6E49,2024-08-26,371580,Repair of car scratches,Rejected,Coverage does not apply,False
+CLM-D88EF943,POL-25689878,2025-05-16,237903,Customer dissatisfaction with claim process,Approved,,False
+CLM-8A31C9D1,POL-110BFB36,2025-02-12,470788,Repair costs for accident damage,Rejected,Coverage does not apply,False
+CLM-99FD792C,POL-BD91D745,2025-02-14,438077,Car theft recovery claim,Pending,,False
+CLM-AAE224A7,POL-1450FA04,2025-02-16,418329,Claim for partial disability,Pending,,False
+CLM-D64CA14F,POL-26401A62,2023-07-13,94930,Delay in claim processing,Rejected,Policy expired,True
+CLM-EFF18C6B,POL-C2E493AB,2024-10-18,47702,Hospitalization due to infection,Approved,,True
+CLM-9BC7E08A,POL-3E93E6EC,2023-07-10,140522,Life insurance payout for accident,Approved,,False
+CLM-18691941,POL-D04FE912,2024-03-26,127855,Claim for loss of hearing,Approved,,True
+CLM-40B40B23,POL-8208F836,2023-09-24,322708,Reimbursement for MRI scan,Pending,,True
+CLM-E811BA2C,POL-927BEFCB,2025-03-01,107187,Reimbursement for MRI scan,Rejected,Policy expired,False
+CLM-AC739111,POL-7E974DC3,2023-06-23,132069,Lost baggage compensation,Approved,,True
+CLM-F808F33D,POL-8F306AB2,2023-09-01,375569,Lost baggage compensation,Rejected,Fraud suspicion,True
+CLM-26CEA08E,POL-A95FAB83,2024-12-19,402076,Hospitalization due to illness,Rejected,Coverage does not apply,True
+CLM-CDBB6961,POL-B1983541,2024-01-11,225589,Customer dissatisfaction with claim process,Pending,,True
+CLM-D14B0715,POL-7FA18513,2024-08-17,279700,Life insurance claim for natural death,Approved,,True
+CLM-79548AE3,POL-E00305DE,2024-06-30,134003,Delay in claim processing,Rejected,Incomplete documents,True
+CLM-95DD92BA,POL-252395A1,2024-04-16,232018,Damage from flooding,Approved,,False
+CLM-80FB86A0,POL-6F6BD273,2024-07-20,313872,Life insurance claim for natural death,Rejected,Fraud suspicion,True
+CLM-DC02E4D0,POL-FB4672AD,2024-02-05,447250,Lost baggage claim,Pending,,True
+CLM-9B28E546,POL-BCFF8FA7,2024-06-12,11673,Dispute over claim amount,Pending,,True
+CLM-15D04180,POL-B75634DF,2024-09-12,90433,Claim dispute over rejection,Rejected,Fraud suspicion,False
+CLM-49A7C1B0,POL-035828A9,2024-01-27,121281,Repair costs for vehicle damage,Rejected,Fraud suspicion,False
+CLM-EEF3A49E,POL-B22D18F1,2025-01-20,97364,Medical emergency overseas,Pending,,False
+CLM-69C37CEE,POL-B02383D7,2024-10-19,355881,Medical expenses for surgery,Rejected,Policy expired,True
+CLM-32FBF81E,POL-C1077532,2024-05-06,326591,Claim for hearing loss,Pending,,False
+CLM-94A0A0C5,POL-EC79780D,2023-07-02,36790,Repair of damaged car parts,Pending,,False
+CLM-573605DD,POL-EC978AB5,2023-11-07,352605,Repair of car scratches,Pending,,True
+CLM-7F17C823,POL-50669CDD,2024-02-08,433225,Repair of car door damage,Rejected,Fraud suspicion,False
+CLM-308504A2,POL-C0B9435E,2024-01-08,369682,Repair of scratched paint,Approved,,False
+CLM-C0991D3F,POL-374978CD,2023-07-04,56756,Claim for loss of fingers,Pending,,False
+CLM-39784B98,POL-5F9A166E,2023-08-20,153411,Repair of windshield cracks,Approved,,True
+CLM-AD065774,POL-F2411AC1,2024-09-28,127477,Life insurance claim due to illness,Pending,,False
+CLM-3386590E,POL-65B57C1C,2024-01-05,151361,Repair of damaged car parts,Approved,,False
+CLM-8F0E705F,POL-C318C34A,2024-04-27,455524,Repair of car damage,Rejected,Fraud suspicion,False
+CLM-86AF0B86,POL-6647C6A5,2025-01-04,104535,Loss of luggage claim,Pending,,False
+CLM-1EE27474,POL-9509EEDA,2025-02-11,422917,Medical treatment for chronic disease,Approved,,False
+CLM-C3C55E03,POL-D9551539,2025-03-03,38976,Repair of damaged car engine,Rejected,Coverage does not apply,False
+CLM-78CDAECE,POL-135DCB24,2024-01-27,410541,Loss of personal belongings claim,Approved,,False
+CLM-3F995BF4,POL-B512CAA8,2023-06-01,163559,Hospital stay for illness,Approved,,True
+CLM-29883BD2,POL-53605377,2024-08-08,247456,Car theft recovery claim,Pending,,False
+CLM-2ED912A4,POL-4E5EC321,2024-08-31,228762,Life insurance claim for natural death,Pending,,False
+CLM-F948CCC3,POL-7076B131,2023-11-03,494917,Customer dissatisfaction with claims,Rejected,Coverage does not apply,False
+CLM-63D7CA51,POL-06D37801,2024-02-02,92551,Life insurance payout request,Pending,,False
+CLM-2F505A2C,POL-64727998,2025-02-10,45931,Hospital stay for serious injury,Pending,,True
+CLM-055575D8,POL-47E6E765,2023-07-05,35807,Fraudulent claim investigation,Rejected,Fraud suspicion,False
+CLM-1D920C4E,POL-0F0C5439,2024-05-13,82022,Repair of car door damage,Approved,,False
+CLM-51E83EFA,POL-9CA8EB36,2024-03-29,471912,Claim for permanent injury,Approved,,True
+CLM-EDABB487,POL-90AFDCCD,2024-11-09,199372,Life insurance claim due to natural death,Approved,,False
+CLM-F4BE66EE,POL-5789A427,2024-01-24,63013,Fracture from car accident,Approved,,False
+CLM-D8936C0F,POL-2CED730A,2023-08-16,418099,Claim dispute over payout,Approved,,False
+CLM-C355A64A,POL-7420879F,2024-07-23,379921,Medical expenses for chronic illness,Pending,,False
+CLM-018648AC,POL-9113D5AF,2023-07-24,27695,Claim for loss of mobility,Rejected,Incomplete documents,True
+CLM-4928F467,POL-CC2D643F,2023-07-10,118779,Damage caused by vandalism,Rejected,Coverage does not apply,True
+CLM-96942561,POL-8C57F088,2024-11-01,103080,Repair costs for accident damage,Rejected,Incomplete documents,True
+CLM-F5EE8C93,POL-DCB60B05,2023-10-03,252186,Repair costs for accident damage,Pending,,True
+CLM-74C751E9,POL-BFC85BA8,2023-11-02,251881,Loss of personal items claim,Rejected,Policy expired,False
+CLM-D6C3F77B,POL-359BDB6B,2024-01-23,255748,Life insurance claim due to illness,Pending,,True
+CLM-C9177663,POL-63780B73,2023-10-16,275174,Life insurance claim for illness,Pending,,False
+CLM-75DD72B3,POL-B3DAC6FF,2024-11-08,77765,Claim process delay,Pending,,False
+CLM-3779AA3D,POL-B8EFCBEB,2023-09-21,32336,Lost baggage claim,Approved,,True
+CLM-E200920C,POL-3E50FA68,2024-04-12,381317,Repair for car engine failure,Approved,,True
+CLM-D9A3B8A6,POL-962B9CB4,2024-10-23,426452,Reimbursement for diagnostic tests,Approved,,True
+CLM-B9EF0C16,POL-B73855B9,2025-03-12,94480,Hospitalization due to infection,Approved,,True
+CLM-B0A180EA,POL-B0612078,2025-03-05,130268,Dispute over claim payment,Approved,,False
+CLM-DE29D7EF,POL-9EE0BAAD,2024-03-23,477179,Hospital stay for disease,Approved,,False
+CLM-E700B3A4,POL-E0A8526F,2023-10-08,192634,Medical treatment expenses,Pending,,False
+CLM-E120ED98,POL-F58A90E1,2024-11-01,311972,Claim for loss of sight,Approved,,True
+CLM-FFD3CF86,POL-EAA48A81,2023-12-18,48191,Delay in claim processing,Approved,,False
+CLM-B3967AAB,POL-F2BE5142,2024-06-21,64917,Fire damage to property,Approved,,True
+CLM-8FDED0CE,POL-420FC4B1,2024-11-17,79443,Lost baggage compensation,Rejected,Incomplete documents,False
+CLM-A4CF3F02,POL-79809361,2025-04-18,74867,Hospitalization due to infection,Pending,,True
+CLM-9BE951DE,POL-1B0116A4,2025-02-28,168742,Claim for loss of hearing ability,Pending,,False
+CLM-03D63760,POL-66023179,2024-04-20,488520,Damage from earthquake,Approved,,True
+CLM-B18667C1,POL-457E6493,2024-08-24,112437,Claim for loss of hearing,Pending,,True
+CLM-BB89566D,POL-79161D8C,2024-06-04,49175,Loss of electronics in theft,Rejected,Fraud suspicion,False
+CLM-89445812,POL-EF0EA457,2023-08-14,401373,Medical bills for outpatient treatment,Pending,,True
+CLM-71B699EE,POL-08BE870E,2024-04-05,458643,Hospitalization due to chronic illness,Rejected,Incomplete documents,False
+CLM-894734AA,POL-ADBF5163,2024-09-10,198730,Life insurance claim for accidental death,Rejected,Policy expired,True
+CLM-8474C176,POL-B1D1C6F7,2024-02-03,319010,Claim for loss of hearing ability,Rejected,Policy expired,False
+CLM-1CD2EF24,POL-391F101C,2025-02-27,482938,Medical expenses for stroke treatment,Pending,,True
+CLM-0D48DE02,POL-C9EB897C,2025-03-23,250137,Loss of personal belongings claim,Rejected,Policy expired,False
+CLM-EA18C3E6,POL-3F4B63C5,2024-03-25,366258,Hospital stay for childbirth complications,Rejected,Coverage does not apply,True
+CLM-98E90456,POL-F80DB7E2,2024-11-12,393464,Fire damage to garage,Approved,,False
+CLM-246EC10F,POL-01D80C4C,2025-04-16,350704,Claim for loss of eye sight,Pending,,True
+CLM-9E86E76C,POL-9B2A38F9,2023-08-05,54115,Claim delay complaint,Rejected,Fraud suspicion,True
+CLM-983466C3,POL-E8E5BD0A,2023-06-14,101283,Claim for loss of hearing,Rejected,Fraud suspicion,False
+CLM-8771C7B4,POL-547E48FD,2024-05-08,322075,Storm damage to windows,Rejected,Incomplete documents,False
+CLM-A29C673B,POL-7141D743,2024-10-07,336112,Life insurance payout,Pending,,True
+CLM-F472B1D2,POL-1F05E597,2023-05-30,178931,Claim for permanent injury,Approved,,False
+CLM-BAA79509,POL-6D880327,2023-08-13,67922,Life insurance payout for accident,Approved,,True
+CLM-361AF298,POL-01BB3266,2024-05-27,406757,Claim for loss of limb,Approved,,False
+CLM-BEBF942D,POL-8B1C0C2E,2024-12-20,207835,Claim rejection appeal,Pending,,True
+CLM-A0DCD2BC,POL-B7677E86,2024-02-15,190227,Water damage to home,Pending,,True
+CLM-E29F5BFE,POL-0C9EC34F,2023-12-31,224538,Life insurance claim for terminal illness,Pending,,False
+CLM-BE24F411,POL-A04395F1,2024-05-25,485604,Storm damage to home,Pending,,False
+CLM-D868F6D3,POL-DDF25BDB,2025-04-15,139283,Medical expenses for heart surgery,Approved,,False
+CLM-848BD63C,POL-DAB270C8,2024-09-03,497481,Lost baggage compensation,Pending,,False
+CLM-759224F6,POL-45A2A803,2024-06-15,345914,Billing error on claim,Pending,,True
+CLM-4E063F0F,POL-A738FEEB,2023-08-23,36985,Loss of valuables in burglary,Approved,,True
+CLM-8224C16A,POL-52BB5D71,2024-08-06,190833,Lost baggage reimbursement,Rejected,Coverage does not apply,False
+CLM-17C1EAC0,POL-455BAA74,2024-12-26,322936,Hospital stay for serious injury,Pending,,False
+CLM-36079CF1,POL-D2CC52EC,2024-07-23,427852,Life insurance claim due to illness,Approved,,True
+CLM-922028A6,POL-ADEFDBCA,2024-08-12,111484,Life insurance claim for terminal illness,Pending,,False
+CLM-60635AA4,POL-E6DD311D,2023-12-22,209760,Hospital stay for illness,Pending,,True
+CLM-FE5FD71B,POL-E29008CD,2023-10-26,314078,Repair costs for vehicle damage,Pending,,True
+CLM-EC914D66,POL-E8D10747,2023-11-22,478398,Investigation for fraudulent claim,Rejected,Incomplete documents,False
+CLM-BE83D87D,POL-5BCC050D,2025-02-04,227256,Medical treatment for injury,Pending,,False
+CLM-CA11B1B0,POL-8C79154C,2023-09-07,40165,Damage from earthquake,Rejected,Coverage does not apply,False
+CLM-B34A6512,POL-DE69B753,2023-11-20,24683,Hospital stay due to accident,Rejected,Fraud suspicion,True
+CLM-3B55DCCF,POL-4791F7A0,2023-06-25,42987,Life insurance claim due to natural death,Pending,,False
+CLM-C1B8E72D,POL-8ACA741A,2024-02-27,314623,Loss of electronics in theft,Approved,,True
+CLM-1F53B044,POL-EBE582CE,2024-11-19,220631,Theft of personal belongings from vehicle,Pending,,True
+CLM-F16DF97B,POL-378D56FB,2023-10-30,377803,Compensation for permanent disability,Pending,,False
+CLM-D230048E,POL-4E62F7A4,2024-01-20,34197,Life insurance claim for accidental death,Rejected,Policy expired,False
+CLM-67E081D0,POL-ADFCB1BE,2024-06-15,339618,Fraudulent claim detection,Pending,,False
+CLM-B198D56C,POL-D84C2C33,2024-07-27,340321,Claim dispute over rejection,Rejected,Fraud suspicion,False
+CLM-569D48A7,POL-031A35D6,2023-06-14,139697,Loss of valuables in theft,Pending,,True
+CLM-82CFB6C1,POL-7402B43D,2024-09-30,408230,Hospital stay due to accident injuries,Approved,,True
+CLM-123937CC,POL-9C0B828D,2024-12-22,259489,Claim for loss of hearing,Approved,,False
+CLM-78DDEB3F,POL-1EA0F2D9,2023-12-28,78124,Fraudulent claim detection,Pending,,True
+CLM-74A6F2E0,POL-C835D0F6,2023-12-24,17158,Life insurance claim due to illness,Rejected,Policy expired,False
+CLM-1A513DFD,POL-99CA87FF,2024-12-13,271476,Payout for terminal illness,Approved,,False
+CLM-5C9A1A15,POL-7C32A83C,2025-04-04,499991,Hospital stay for childbirth,Approved,,True
+CLM-CBC98EF0,POL-D4C5DDB2,2025-04-11,125120,Reimbursement for hospital stay,Pending,,False
+CLM-5945AE93,POL-CB508000,2024-10-30,69683,Loss of valuables during trip,Pending,,False
+CLM-AE5FABA4,POL-68DDE62E,2024-02-09,233943,Loss of valuables during trip,Rejected,Fraud suspicion,True
+CLM-04F874F0,POL-737F1FD7,2024-03-13,39074,Delay in claim approval,Pending,,True
+CLM-3904509A,POL-1EDAA475,2024-01-15,81034,Fire damage to garage,Rejected,Incomplete documents,False
+CLM-B511BAD4,POL-D6AF9F38,2024-06-25,355988,Medical treatment for chronic illness,Rejected,Fraud suspicion,True
+CLM-74F9857B,POL-9599C845,2025-03-26,411649,Loss of luggage claim,Pending,,False
+CLM-D73B50B6,POL-D47493A5,2025-04-05,464186,Life insurance payout request,Rejected,Coverage does not apply,True
+CLM-051FCC49,POL-883C40AF,2025-02-07,236872,Loss of luggage reimbursement,Rejected,Policy expired,False
+CLM-64746E1F,POL-3571C213,2023-06-21,121900,Life insurance payout request,Rejected,Coverage does not apply,False
+CLM-F5AAE3F4,POL-98FD08B1,2024-05-05,156062,Damage from burglary,Rejected,Fraud suspicion,True
+CLM-1D1115E4,POL-38872C96,2024-04-06,307923,Lost travel accessories claim,Rejected,Policy expired,False
+CLM-3899A4F5,POL-3157BDDF,2024-01-01,112393,Reimbursement for physical therapy,Rejected,Policy expired,True
+CLM-AD4DBED5,POL-EDDD0E31,2023-07-15,313714,Claim for permanent injury,Rejected,Incomplete documents,True
+CLM-5893E6FF,POL-054E9E17,2024-08-31,81863,Hospital stay for infection treatment,Pending,,False
+CLM-0EA9AE3E,POL-EB915151,2024-08-13,18439,Repair costs for vehicle damage,Rejected,Incomplete documents,False
+CLM-3AE8BD79,POL-A1667FBA,2024-02-08,442813,Billing error on claim,Pending,,False
+CLM-550FB6BF,POL-64DFCA36,2024-03-15,66788,Emergency dental treatment,Approved,,False
+CLM-DB018694,POL-C997024C,2024-02-13,466644,Claim delay complaint,Approved,,True
+CLM-4EBB5E1C,POL-75E09244,2024-09-17,84215,Investigation for fraudulent claim,Rejected,Policy expired,False
+CLM-43825A6E,POL-4FDF09D4,2024-11-05,493486,Claim for canceled trip expenses,Approved,,False
+CLM-2F8BC561,POL-31324D2E,2023-08-11,402001,Flood damage to home,Approved,,False
+CLM-05F4892F,POL-A79FC568,2025-01-31,240907,Hospital stay due to disease,Rejected,Policy expired,True
+CLM-A6850443,POL-C001B76A,2024-11-03,244634,Medical expenses for surgery,Approved,,True
+CLM-C19D9281,POL-C9E94257,2025-02-20,407427,Claim rejection dispute,Rejected,Coverage does not apply,True
+CLM-6600FFF3,POL-15926B2D,2023-11-15,452280,Claim for partial loss of use,Rejected,Coverage does not apply,False
+CLM-6D614E9F,POL-BB085B4A,2025-03-27,361681,Fire damage to home exterior,Approved,,True
+CLM-6347D0EA,POL-8C963BD3,2024-08-11,88969,Water damage to electronic devices,Pending,,False
+CLM-4C1BA86C,POL-24BC7473,2025-01-18,422544,Claim for partial disability,Pending,,False
+CLM-2B68402E,POL-5CF213D2,2024-11-30,168528,Claim for partial disability,Rejected,Policy expired,True
+CLM-CA9E6ED9,POL-4E522207,2024-02-29,438900,Loss of valuables claim,Rejected,Policy expired,False
+CLM-7E1B6034,POL-8EDF142E,2025-01-15,199992,Damage to bumper in collision,Rejected,Policy expired,True
+CLM-2C43CEC6,POL-7F6AE211,2023-12-31,496798,Claim for loss of speech,Rejected,Fraud suspicion,False
+CLM-F5C93B0D,POL-D0DB2118,2023-07-19,229516,Water damage to home,Rejected,Policy expired,False
+CLM-ABA6CEDA,POL-C8A1E76E,2023-09-14,94909,Delayed baggage claim,Approved,,False
+CLM-D295B44C,POL-6E1F08C9,2024-06-07,362489,Medical treatment for chronic illness,Rejected,Incomplete documents,True
+CLM-4ADDD6E9,POL-B739D11D,2024-06-25,334905,Loss of travel documents,Rejected,Incomplete documents,False
+CLM-BBAA6601,POL-10C4B4B9,2025-02-07,163630,Medical expenses for diabetes treatment,Approved,,False
+CLM-DBF9722E,POL-84233015,2024-07-27,257716,Hospitalization due to accident,Pending,,True
+CLM-706AB350,POL-6206C483,2024-10-27,151333,Disputed claim rejection,Pending,,False
+CLM-EB549F4B,POL-3B021244,2025-03-22,397424,Claim for travel delay,Approved,,True
+CLM-8B33DFFE,POL-9A7A0330,2024-11-29,82540,Customer dissatisfaction with claim process,Pending,,True
+CLM-39833459,POL-526B3B9D,2024-12-29,71311,Claim delay complaint,Rejected,Policy expired,True
+CLM-F80A8817,POL-2DDF526E,2024-03-22,449678,Life insurance claim for accidental death,Rejected,Incomplete documents,False
+CLM-0AB2A2BA,POL-ED80D2C2,2023-06-14,214681,Customer dissatisfaction with claim process,Pending,,False
+CLM-E2B39D82,POL-6BF08ED3,2025-01-21,220165,Hospitalization due to accident,Pending,,True
+CLM-0A960B9A,POL-70600714,2024-07-04,234395,Repair costs for accident damage,Pending,,True
+CLM-6F61C9DD,POL-15E60EE3,2025-04-03,398976,Storm damage to home,Rejected,Fraud suspicion,False
+CLM-61F2C619,POL-5E5385DF,2023-05-29,480555,Repair for car engine failure,Rejected,Fraud suspicion,True
+CLM-132DE5C9,POL-AABE3EDE,2025-01-26,21684,Water damage to home,Rejected,Policy expired,False
+CLM-3CFE6A30,POL-E33A1C38,2024-05-24,382291,Claim for partial disability,Pending,,False
+CLM-F698CF4D,POL-0EF0D1E5,2024-07-30,110884,Repair for side mirror damage,Pending,,True
+CLM-F934C88A,POL-E9C9CA4C,2023-10-08,58920,Claim for loss of speech,Rejected,Incomplete documents,True
+CLM-594A4308,POL-7EA0F061,2023-07-17,352216,Car accident damages,Approved,,True
+CLM-F4921CF8,POL-0B3D3C01,2024-10-10,285994,Medical expenses for heart surgery,Approved,,False
+CLM-1E15A759,POL-EF53FFF1,2023-10-04,196334,Lost travel accessories claim,Approved,,False
+CLM-E3F37CA7,POL-A301EF56,2023-09-09,236967,Fire damage to kitchen,Pending,,False
+CLM-138724FF,POL-BF6A2943,2024-06-03,272010,Medical expenses for surgery,Rejected,Incomplete documents,True
+CLM-80A9C7D2,POL-35C4BEA7,2024-04-23,327423,Claim dispute over settlement amount,Rejected,Incomplete documents,True
+CLM-30CA826E,POL-6362CCBE,2025-04-30,389886,Water damage to electronic devices,Rejected,Policy expired,False
+CLM-B08DE7B9,POL-FA038DB2,2023-09-29,476690,Hospital stay for illness,Approved,,False
+CLM-FBAD5725,POL-F941A7A8,2023-07-03,57984,Water damage to electronic devices,Rejected,Policy expired,True
+CLM-BD2DA523,POL-371056FC,2024-04-08,103660,Repair costs for accident damage,Pending,,True
+CLM-BAF600AC,POL-2F42F3B2,2024-02-23,474694,Repair costs for collision damage,Pending,,True
+CLM-CBE7773F,POL-556ADE73,2023-07-07,31304,Claim for loss of fingers,Rejected,Fraud suspicion,True
+CLM-937A2775,POL-ADA7DBD0,2024-05-20,99172,Claim for loss of foot,Rejected,Incomplete documents,False
+CLM-F7ABBCBC,POL-0BBA2747,2025-01-08,123550,Customer dissatisfaction with claims,Approved,,True
+CLM-3C34BB56,POL-8CA9A71F,2024-01-21,129430,Fire damage to furniture,Pending,,True
+CLM-1673DD83,POL-20D61997,2023-09-04,441783,Claim for partial loss of use,Pending,,True
+CLM-5F207E59,POL-250A0043,2024-11-08,73784,Flood damage claim,Pending,,True
+CLM-655FA944,POL-3BC5695E,2024-05-21,259055,Claim for permanent disability,Approved,,False
+CLM-6E1FB37A,POL-00DE8966,2024-04-01,82102,Life insurance claim for accident,Pending,,False
+CLM-FC360EE3,POL-AA2C4A9A,2024-09-20,16248,Claim rejection appeal,Approved,,False
+CLM-969F30F8,POL-99759972,2025-01-13,434393,Medical treatment for heart disease,Rejected,Incomplete documents,False
+CLM-1D358A9B,POL-EA82050A,2025-04-29,39675,Loss of personal belongings,Rejected,Fraud suspicion,True
+CLM-5235F4DA,POL-BDBCE88E,2023-11-06,494802,Claim for loss of limb,Rejected,Coverage does not apply,False
+CLM-C4314489,POL-A660D936,2024-06-18,475720,Delayed baggage claim,Pending,,True
+CLM-D838CD4B,POL-FA1C1F8A,2025-04-22,354706,Damage from flooding,Rejected,Fraud suspicion,True
+CLM-36EEEB53,POL-85A80DCD,2024-02-20,196769,Life insurance claim due to accident,Rejected,Policy expired,True
+CLM-E1B59BB4,POL-7D17B568,2025-03-16,104186,Repair of damaged car bumper,Pending,,True
+CLM-D52CF8E1,POL-131EDDAA,2023-12-10,146687,Life insurance payout request,Pending,,True
+CLM-55426EDF,POL-FC94416B,2024-08-22,155003,Lost personal items during travel,Rejected,Fraud suspicion,False
+CLM-2D122096,POL-09BF3F64,2023-11-24,381620,Lost baggage claim,Rejected,Fraud suspicion,True
+CLM-C7F35600,POL-7B0B774C,2023-07-14,174880,Damage caused by storm,Approved,,False
+CLM-F529DF25,POL-1AA28D98,2024-01-22,298093,Reimbursement for medication,Approved,,False
+CLM-BF08EE59,POL-644E9C9F,2023-07-09,370769,Medical treatment for stroke,Rejected,Fraud suspicion,True
+CLM-225B5410,POL-7AE38F3E,2024-11-21,293121,Reimbursement for hospital charges,Pending,,False
+CLM-6B2E4497,POL-58FD8D98,2024-05-02,67537,Claim rejection appeal,Approved,,False
+CLM-7F8468E4,POL-01163E4F,2025-04-12,263965,Hospital stay due to accident,Pending,,False
+CLM-31242C89,POL-CF315797,2024-10-20,44912,Medical treatment for disease,Approved,,False
+CLM-EB2D69D3,POL-F6FF2074,2023-12-07,38130,Fire damage to home exterior,Approved,,True
+CLM-02DABA8D,POL-25420D4A,2024-09-27,407812,Claim for loss of hearing,Rejected,Coverage does not apply,False
+CLM-2CCDB32A,POL-1FD41448,2025-05-12,39888,Medical expenses for diabetes treatment,Approved,,True
+CLM-8B385EF4,POL-0C85A4C2,2025-04-29,466247,Repair of scratched paint,Pending,,False
+CLM-E72F3E32,POL-2BA96AAA,2023-06-12,484681,Claim for total disability,Rejected,Policy expired,False
+CLM-362A971B,POL-CBFBC6FC,2024-06-05,317349,Customer complaint on claim,Pending,,True
+CLM-3AF814F4,POL-45F5547F,2024-07-28,71351,Customer dissatisfaction with claim process,Rejected,Fraud suspicion,True
+CLM-83585E53,POL-48991FE3,2024-10-11,304397,Billing error on claim,Pending,,False
+CLM-FA79E536,POL-99B88A64,2024-07-18,462120,Repair costs from hit and run,Approved,,False
+CLM-5580F591,POL-7CDBB603,2023-06-13,277484,Claim rejection dispute,Rejected,Policy expired,False
+CLM-B92C2EA2,POL-EAC1745C,2023-07-13,141136,Claim for partial loss of use,Pending,,True
+CLM-C16A3B92,POL-E5FFAF55,2024-10-19,158184,Life insurance claim for accident,Approved,,False
+CLM-5DC2D352,POL-8E4731A4,2025-03-10,463219,Medical treatment for chronic disease,Pending,,True
+CLM-57BEAAE7,POL-46BF3ACE,2024-08-17,430266,Fire damage to home interior,Rejected,Fraud suspicion,False
+CLM-F430CAAF,POL-66103561,2023-12-18,255532,Claim for lost electronics during travel,Approved,,False
+CLM-EAB10D0D,POL-B12A6FDB,2024-02-28,315709,Hospital stay due to heart attack,Rejected,Incomplete documents,True
+CLM-CF68BDA6,POL-FD4EC0FB,2023-09-08,343501,Fire damage to building,Rejected,Fraud suspicion,False
+CLM-F81578C1,POL-19F5F176,2023-07-17,278167,Life insurance claim for terminal illness,Rejected,Fraud suspicion,False
+CLM-FA4F9D12,POL-EB438166,2025-01-02,427495,Water damage claim,Approved,,True
+CLM-BC303C48,POL-89C51E80,2023-07-21,414385,Customer dissatisfaction with claim process,Pending,,False
+CLM-E32E11C0,POL-DD7ADD11,2025-04-07,208309,Hospitalization due to accident,Rejected,Fraud suspicion,False
+CLM-F0245F87,POL-52D403A2,2024-10-27,369248,Customer complaint on claim delay,Approved,,True
+CLM-D91987C4,POL-7DEEB9DE,2024-07-02,422840,Dispute over claim payment,Approved,,True
+CLM-70F3FFE1,POL-E6453D11,2024-07-19,300586,Loss of valuables during trip,Approved,,False
+CLM-3087D0A0,POL-9051A091,2023-10-30,278649,Hospital stay for disease,Approved,,False
+CLM-0E81B40F,POL-C121FB9B,2023-08-23,10592,Loss of electronics in theft,Pending,,False
+CLM-B14A2CDF,POL-8A32541D,2024-05-20,332041,Damage from flooding,Approved,,True
+CLM-FC245DD9,POL-3D4C8B75,2025-01-27,248749,Repair of damaged car bumper,Pending,,True
+CLM-C706E02F,POL-D451A0AE,2024-03-15,115965,Repair costs for collision damage,Rejected,Policy expired,True
+CLM-A94266BE,POL-D6075379,2025-02-26,24376,Claim for loss of limb,Rejected,Incomplete documents,True
+CLM-1AB13639,POL-E0153783,2024-06-07,320971,Life insurance claim payout,Rejected,Fraud suspicion,True
+CLM-5AA49A69,POL-BE4A7FEF,2024-05-14,54433,Lost baggage claim,Approved,,True
+CLM-C7EDD51E,POL-5994AFF7,2023-09-25,459325,Medical treatment for chronic disease,Approved,,True
+CLM-5FED7995,POL-BE5A4B52,2023-06-27,299807,Loss of luggage due to airline error,Pending,,True
+CLM-6F828000,POL-755984B4,2024-10-18,127390,Life insurance claim due to illness,Rejected,Coverage does not apply,True
+CLM-16286928,POL-1E4A7C18,2024-10-12,85013,Lost luggage claim,Rejected,Coverage does not apply,True
+CLM-8A63AB71,POL-0E16A34A,2023-10-23,44984,Unauthorized charges on policy,Approved,,True
+CLM-9361A045,POL-52D15C88,2023-11-12,130221,Repair costs for accident damage,Pending,,False
+CLM-50985950,POL-F038FAF1,2024-02-10,408066,Medical treatment for asthma attack,Pending,,True
+CLM-F475A47E,POL-3BBE68EB,2023-08-03,422473,Customer dissatisfaction with claim process,Rejected,Coverage does not apply,True
+CLM-B6622893,POL-14922446,2023-07-02,29843,Claim for permanent disability,Pending,,False
+CLM-39B747B2,POL-A9EC35D9,2024-03-11,456367,Medical expenses for asthma,Pending,,True
+CLM-1D7E094E,POL-0A4A4DFF,2024-08-25,422833,Damage caused by vandalism,Pending,,False
+CLM-47446892,POL-5BAD5921,2024-05-04,38311,Fracture from car accident,Approved,,False
+CLM-FACF96DD,POL-B2C23D69,2023-11-13,276345,Claim process delay,Approved,,True
+CLM-62D1C313,POL-35215FC5,2024-11-23,195301,Claim dispute over settlement amount,Pending,,True
+CLM-0CCD8DFA,POL-D5EA4322,2025-02-05,156487,Life insurance claim for accident victim,Approved,,False
+CLM-090981EB,POL-2C934E2A,2024-03-04,488011,Loss of travel documents,Approved,,False
+CLM-424B241D,POL-1EF83EDA,2023-08-08,204075,Water damage to home,Approved,,False
+CLM-DA22788B,POL-1C92B132,2024-05-11,157074,Hospital stay due to disease,Approved,,False
+CLM-0CDB5507,POL-03AAB479,2024-11-28,244243,Medical bills for outpatient treatment,Approved,,False
+CLM-091B3B1F,POL-A303DE7D,2024-01-05,467057,Car theft recovery claim,Pending,,True
+CLM-1AFC7744,POL-E853E8F7,2024-07-13,197572,Claim process delay,Rejected,Fraud suspicion,False
+CLM-27E667F8,POL-EF1ABE07,2024-09-15,403955,Customer service complaint on claim,Pending,,False
+CLM-785CAE78,POL-6C42B65C,2024-08-31,83957,Reimbursement for hospital charges,Pending,,False
+CLM-C8777EE5,POL-3F32AC91,2024-05-03,119088,Complaint about claim process delay,Approved,,False
+CLM-D940C75C,POL-1FA756E0,2024-01-14,244501,Reimbursement for physiotherapy,Pending,,True
+CLM-E14DEBFD,POL-FE7E4D20,2024-03-30,260346,Medical treatment for injury,Approved,,False
+CLM-05C5EBDB,POL-DABEA88A,2023-11-01,170369,Fire damage to kitchen,Rejected,Incomplete documents,True
+CLM-503DFDDD,POL-B7DE5002,2024-01-22,473500,Fire damage to garage,Rejected,Incomplete documents,True
+CLM-763ADBB0,POL-E757C94A,2025-03-03,363040,Claim for permanent injury,Approved,,True
+CLM-179A1D55,POL-D9742D0C,2024-01-18,154525,Claim rejection dispute,Pending,,True
+CLM-EDB75382,POL-7B3759E9,2023-10-14,352197,Hospitalization due to pneumonia,Approved,,True
+CLM-EE372666,POL-66F31765,2024-03-30,43409,Life insurance payout for accident,Pending,,True
+CLM-CB8F0E4B,POL-14B7CB84,2024-05-29,122279,Life insurance payout request,Pending,,False
+CLM-97F01070,POL-C1748A13,2024-04-25,299577,Repair costs for vehicle accident,Rejected,Policy expired,False
+CLM-856CE8F3,POL-CC726F21,2025-02-03,67770,Accidental death claim,Rejected,Incomplete documents,False
+CLM-19D13FD8,POL-AED3F898,2023-08-29,234678,Life insurance claim for natural death,Rejected,Incomplete documents,False
+CLM-CF241DC7,POL-7A8EA66A,2023-06-24,304598,Claim for loss of fingers,Approved,,False
+CLM-AE07EA39,POL-B08D6E89,2025-01-16,353746,Claim for loss of fingers,Rejected,Policy expired,False
+CLM-C89689C5,POL-773252B9,2023-05-30,146568,Medical treatment expenses,Approved,,False
+CLM-74FF4BCF,POL-001E333E,2024-05-22,362532,Life insurance claim for accident,Approved,,False
+CLM-FA3CDF20,POL-9C9B42A2,2024-01-05,391289,Repair costs from vehicle collision,Rejected,Policy expired,True
+CLM-BB244A7B,POL-5829AAA7,2024-10-22,379864,Claim for loss of hearing,Approved,,False
+CLM-5BD6F9DB,POL-237B60E0,2023-12-11,335570,Life insurance payout request,Pending,,True
+CLM-3511F841,POL-BD561EF5,2023-11-25,341202,Lost baggage during travel,Approved,,False
+CLM-0A0DA14E,POL-0C31EBAD,2024-10-11,64685,Emergency dental treatment,Pending,,True
+CLM-D02FB142,POL-1BBE0E6F,2024-12-18,298042,Car theft recovery claim,Pending,,False
+CLM-A8825C09,POL-CCD06FA0,2024-08-31,150581,Lost baggage compensation,Rejected,Policy expired,True
+CLM-D2EB8890,POL-173167A9,2025-02-06,121556,Repair costs for accident damage,Pending,,False
+CLM-84ECDF36,POL-9395B5A4,2023-08-09,20321,Life insurance payout for accident,Pending,,False
+CLM-893235E1,POL-4E2ACF79,2023-10-12,374304,Damage from burglary,Approved,,True
+CLM-CA366554,POL-0A5F6F18,2023-07-12,171710,Damage caused by storm,Pending,,True
+CLM-7FA79848,POL-0FFD2DA3,2024-03-10,219264,Repair of dented vehicle body,Pending,,True
+CLM-D65876EC,POL-9DD1D33D,2024-02-24,19439,Medical expenses for allergy treatment,Pending,,False
+CLM-8CA1A9D9,POL-89F9BB1E,2024-03-29,324501,Complaint about claim process delay,Rejected,Fraud suspicion,True
+CLM-F67C257B,POL-0817EB1C,2023-06-15,52717,Medical treatment expenses,Rejected,Fraud suspicion,False
+CLM-ED6F0F7C,POL-F765E7F9,2024-08-30,344319,Theft of personal belongings from vehicle,Pending,,True
+CLM-83CD7A3A,POL-84C2C9F3,2023-09-08,19286,Life insurance payout for illness,Pending,,False
+CLM-C83E474C,POL-F7B01B35,2024-06-19,111795,Lost baggage compensation,Approved,,True
+CLM-1C534AB3,POL-C37EEA84,2024-07-12,395716,Repair of damaged tail light,Approved,,False
+CLM-2A327BF9,POL-DA2919BC,2025-01-30,88083,Medical expenses for diabetes treatment,Rejected,Coverage does not apply,True
+CLM-BBE88CE9,POL-3F966E75,2024-10-14,99605,Hospitalization due to pneumonia,Pending,,False
+CLM-22AD53FC,POL-C1A0D773,2024-07-12,168366,Claim for loss of hearing,Approved,,False
+CLM-08AD9D7E,POL-667A4456,2024-02-18,203816,Claim for travel delay,Pending,,False
+CLM-918E5267,POL-E49A2D11,2024-08-10,495561,Medical treatment for injury,Rejected,Coverage does not apply,True
+CLM-D7C67B4D,POL-73D30E8A,2023-07-17,50164,Repair of broken tail light,Pending,,True
+CLM-95CBF08A,POL-27D26530,2023-07-11,124605,Vehicle collision with another car,Rejected,Fraud suspicion,True
+CLM-AE1F193F,POL-C6F50AE1,2024-07-22,409964,Hospital stay for childbirth complications,Pending,,False
+CLM-93EFA8B1,POL-2FB93DE9,2023-11-29,310542,Fire damage to building,Approved,,False
+CLM-A0EC2FC6,POL-256B1D65,2024-05-26,327825,Claim dispute over payout,Pending,,True
+CLM-9A7442FB,POL-B9889EE5,2024-11-17,316317,Lost baggage compensation,Rejected,Coverage does not apply,True
+CLM-084BC584,POL-0D8D0C9A,2023-06-20,440446,Hospital stay due to disease,Pending,,False
+CLM-88DF6397,POL-D4CDD52E,2025-05-14,286434,Customer dissatisfaction with claim process,Rejected,Fraud suspicion,True
+CLM-44F189D0,POL-20DD9B18,2024-06-10,175052,Repair costs from vehicle collision,Rejected,Coverage does not apply,True
+CLM-6E9052EF,POL-E00DDF8B,2025-04-09,334689,Repair of damaged tail light,Approved,,True
+CLM-0BFB0F03,POL-F0CA6EA5,2023-06-09,377880,Life insurance payout for accident,Approved,,False
+CLM-DC375994,POL-44E5A70B,2025-04-10,338643,Life insurance claim for natural death,Approved,,False
+CLM-238FD409,POL-DF6EF385,2024-04-15,309182,Reimbursement for emergency surgery,Approved,,False
+CLM-E807FEE6,POL-5302E9AF,2024-09-24,188468,Life insurance claim for accidental death,Rejected,Fraud suspicion,False
+CLM-5CF54FF1,POL-477EB3F9,2025-03-04,336353,Loss of luggage during flight,Approved,,False
+CLM-CE676F0F,POL-6E37C5D5,2024-04-27,46109,Hospital stay for appendicitis,Approved,,False
+CLM-4BFE552B,POL-9E12F96D,2024-03-01,172659,Payout for terminal illness,Pending,,True
+CLM-151239D4,POL-F9515888,2024-10-16,291296,Death due to accident,Rejected,Fraud suspicion,True
+CLM-5A6DB4CD,POL-56DDE32E,2025-01-11,174079,Claim for loss of speech,Pending,,True
+CLM-D5D9F2C0,POL-53D157FC,2024-05-14,329457,Fraudulent claim investigation,Pending,,True
+CLM-D06497AF,POL-D3593B44,2023-11-15,380766,Repair of car door dent,Approved,,False
+CLM-A0F4DED4,POL-F95EA2D7,2024-07-30,350496,Water damage to home,Approved,,False
+CLM-A0E51F14,POL-937BCA56,2025-03-15,103907,Loss of luggage reimbursement,Approved,,False
+CLM-FA1D9879,POL-03900258,2023-10-26,145276,Customer dissatisfaction with claim process,Rejected,Fraud suspicion,True
+CLM-03A03FB9,POL-E54AE341,2025-02-15,396052,Repair of damaged car engine,Rejected,Incomplete documents,False
+CLM-4EA6A1D2,POL-F8BABBDC,2024-01-11,247369,Water damage to furniture,Pending,,True
+CLM-F2940CEF,POL-69437BAB,2023-10-27,113868,Life insurance payout for illness,Approved,,False
+CLM-1D70CA7B,POL-3A7B47DC,2023-11-24,358008,Medical expenses for surgery,Pending,,True
+CLM-391E5D34,POL-C6DB2946,2025-05-14,431160,Repair of damaged car parts,Pending,,False
+CLM-2B33EBB1,POL-47479D04,2025-04-08,111902,Claim delay complaint,Pending,,False
+CLM-9AFFBBA3,POL-58095F81,2023-10-21,129636,Life insurance claim for natural death,Approved,,True
+CLM-F05E787A,POL-92C9E01F,2024-01-13,225094,Hospital stay due to heart attack,Pending,,False
+CLM-6ACDCD72,POL-C01C48EC,2024-06-22,349550,Claim for partial loss of use,Pending,,True
+CLM-F73B7413,POL-879E19FD,2024-01-17,121742,Life insurance claim for accidental death,Approved,,False
+CLM-66168969,POL-E44E25E0,2024-06-21,488309,Claim for temporary disability,Rejected,Incomplete documents,False
+CLM-C7AB1F84,POL-3D817EE9,2024-03-19,224197,Customer dissatisfaction with claim process,Pending,,True
+CLM-687A3C28,POL-97D094C8,2023-08-21,211929,Lost baggage reimbursement,Pending,,True
+CLM-374C882C,POL-18792E7A,2024-03-25,447423,Repair of damaged car parts,Approved,,True
+CLM-35630756,POL-2FFD1173,2024-01-26,327272,Lost baggage compensation,Rejected,Incomplete documents,True
+CLM-4DD6DEFC,POL-E92C88B9,2023-10-01,39616,Disputed claim rejection,Pending,,False
+CLM-131FDA0C,POL-42B8FF22,2025-01-13,102824,Replacement of damaged home appliances,Rejected,Coverage does not apply,True
+CLM-0AC6974B,POL-FBAF97E4,2025-05-05,451000,Lost baggage compensation,Pending,,True
+CLM-24C81365,POL-396C88F5,2024-08-24,229398,Medical expenses for cancer treatment,Pending,,False
+CLM-A5307435,POL-2276E033,2023-12-01,50964,Customer complaint on claim delay,Rejected,Incomplete documents,True
+CLM-DA3208DD,POL-781E8283,2024-02-06,106188,Repair for car dent and scratches,Approved,,False
+CLM-566FC1C0,POL-30BA19FC,2023-06-14,214552,Vehicle collision with another car,Rejected,Coverage does not apply,True
+CLM-387231DE,POL-C46CE841,2023-11-19,345046,Life insurance claim for natural death,Pending,,True
+CLM-CCADE19A,POL-73A49F69,2024-11-08,218685,Claim for loss of use of limb,Approved,,False
+CLM-73D8B08E,POL-769D753E,2024-11-23,434087,Water damage claim,Pending,,True
+CLM-DDBDBCE3,POL-D5F6AC0C,2025-04-07,369834,Customer complaint about claim,Pending,,True
+CLM-F60C4AD8,POL-DB856801,2023-07-02,213487,Claim rejection dispute,Pending,,True
+CLM-E440445B,POL-895359C8,2024-10-21,147013,Customer dissatisfaction with claim process,Rejected,Incomplete documents,False
+CLM-1241916A,POL-23B1CED2,2025-02-04,27393,Claim for loss of limb function,Pending,,False
+CLM-3AF18E4E,POL-A1FF8FED,2024-03-29,362283,Loss of valuables claim,Pending,,True
+CLM-E15EBBA1,POL-E7BBDB8D,2023-12-20,207061,Hospitalization for surgery,Rejected,Policy expired,True
+CLM-11BF45AA,POL-18D90C02,2023-07-04,384555,Lost baggage claim,Approved,,False
+CLM-D5970F2B,POL-2BA641F5,2025-03-09,224114,Hospitalization due to pneumonia,Approved,,True
+CLM-C99B75A4,POL-151D218B,2024-11-26,132950,Life insurance payout request,Approved,,True
+CLM-B07C9A2A,POL-7AAE4DD5,2023-07-23,275390,Medical expenses for asthma,Rejected,Incomplete documents,True
+CLM-61DA7428,POL-3A7984AB,2024-10-02,395111,Water damage to furniture,Pending,,True
+CLM-F392E582,POL-047AF760,2023-09-23,38109,Repair for side mirror damage,Pending,,False
+CLM-7CA97675,POL-09F6FD9F,2024-05-09,393172,Repair costs for vehicle damage,Pending,,True
+CLM-74210BC4,POL-4952EDD0,2023-10-09,48524,Hospital stay due to accident,Pending,,True
+CLM-85C6F943,POL-52CB31B4,2023-08-05,432940,Lost baggage claim,Rejected,Coverage does not apply,False
+CLM-0272A8A9,POL-B8E7C8AB,2024-11-15,475203,Loss of valuables in theft,Approved,,False
+CLM-3E9F987B,POL-0817CA21,2025-04-06,146425,Claim for loss of sight,Rejected,Incomplete documents,True
+CLM-22EF562F,POL-B333B286,2024-03-07,186104,Damage from flooding,Pending,,False
+CLM-50C5979A,POL-8C4FA8E4,2024-05-23,405456,Damage from flooding,Rejected,Policy expired,True
+CLM-3E2CC3EA,POL-D00724AD,2025-04-05,412039,Claim for hearing loss,Rejected,Policy expired,True
+CLM-FE21B3E5,POL-163F2505,2025-03-28,343173,Water damage claim,Approved,,True
+CLM-B4D128B8,POL-BA6C32E1,2023-10-07,171440,Life insurance payout request,Rejected,Fraud suspicion,True
+CLM-0D59EBCB,POL-81E51248,2025-03-06,445317,Customer dissatisfaction with claim process,Approved,,False
+CLM-D4C0D5D2,POL-5293AEA4,2023-07-06,258941,Repair of broken tail light,Approved,,False
+CLM-68CD3992,POL-3DE546F5,2023-07-03,346675,Water damage claim,Rejected,Policy expired,True
+CLM-51FE37C0,POL-5509E930,2024-06-22,291993,Investigation of suspicious claim,Approved,,False
+CLM-D9DAB991,POL-27502324,2023-08-24,136342,Hospital stay due to accident,Approved,,False
+CLM-44FF19F0,POL-00F1EA5B,2024-05-29,59013,Repair of damaged vehicle,Rejected,Coverage does not apply,False
+CLM-88A375CC,POL-00F17203,2025-01-10,40629,Customer dissatisfaction with claim process,Rejected,Coverage does not apply,True
+CLM-732C5134,POL-BEE48254,2024-11-01,121984,Repair for side mirror damage,Pending,,True
+CLM-340492DD,POL-5EEFAB99,2024-05-23,51461,Life insurance claim for accidental death,Pending,,True
+CLM-13AD6184,POL-A6DAB667,2023-12-28,199685,Reimbursement for chemotherapy,Approved,,True
+CLM-C6D2D122,POL-F6FD21A8,2024-08-11,288729,Hospitalization for infection,Approved,,True
+CLM-C613F0AB,POL-8556AF71,2025-01-08,358900,Claim for lost electronics during travel,Pending,,True
+CLM-5A339C93,POL-C13DA7F6,2023-08-12,346747,Life insurance claim for accidental death,Rejected,Fraud suspicion,True
+CLM-FEB26C8C,POL-997F57EF,2025-03-24,303098,Repair costs from vehicle collision,Rejected,Coverage does not apply,True
+CLM-626355B9,POL-583AC346,2023-10-11,380738,Repair of car door damage,Pending,,True
+CLM-090918E3,POL-BD09863A,2025-04-24,94537,Reimbursement for prescription drugs,Pending,,False
+CLM-9C2B08C0,POL-7FA3AF3B,2024-04-10,415199,Loss of personal items during travel,Pending,,True
+CLM-817F6141,POL-0792F82A,2024-06-29,211579,Loss of personal items during travel,Rejected,Incomplete documents,False
+CLM-13F880BA,POL-292E1B25,2023-06-15,84515,Storm damage to property,Pending,,True
+CLM-C2C1A375,POL-0E208CD6,2024-03-16,81904,Investigation for fraudulent claim,Rejected,Policy expired,False
+CLM-6C51B7C1,POL-4D7BC7AE,2025-01-31,62377,Dispute over claim payment,Pending,,True
+CLM-56B29845,POL-869AD490,2025-03-21,469757,Hospital stay due to disease,Pending,,True
+CLM-038CA8E7,POL-799E9B00,2024-03-16,26635,Claim for loss of hearing,Rejected,Policy expired,False
+CLM-C8B5BD7A,POL-64BFCEEB,2024-12-03,454849,Customer complaint about claim,Approved,,False
+CLM-E67D2099,POL-41511295,2024-11-03,498196,Compensation for permanent disability,Pending,,False
+CLM-8F5A3F87,POL-BF800FFE,2024-11-23,242612,Dispute over claim payout,Rejected,Policy expired,False
+CLM-877A7A56,POL-A0BD5071,2024-12-16,61489,Damage from flooding,Pending,,True
+CLM-1EAF3D04,POL-02E033A1,2024-08-22,374525,Repair costs for vehicle damage,Approved,,True
+CLM-2B489B57,POL-0B91E807,2025-03-20,119172,Claim for loss of hearing,Pending,,True
+CLM-C5589C22,POL-00113951,2025-02-14,147114,Medical expenses for allergy treatment,Pending,,True
+CLM-C6E363C9,POL-50C51ABC,2024-05-19,343939,Reimbursement for medication,Pending,,True
+CLM-4CB72CD5,POL-DECD41CF,2023-09-02,472133,Lost baggage claim,Pending,,True
+CLM-5699938C,POL-8D0A84FA,2024-09-28,165459,Theft claim for stolen vehicle,Approved,,False
+CLM-D4E07796,POL-80014794,2023-10-12,97220,Storm damage to property,Pending,,False
+CLM-41B52865,POL-8328EF2D,2024-11-07,151201,Life insurance payout for illness,Rejected,Incomplete documents,True
+CLM-A2D84F7D,POL-AD00CC48,2024-04-28,311236,Accidental death claim,Pending,,True
+CLM-0FF65C69,POL-08C1A8AB,2024-06-17,338558,Repair costs for vehicle damage,Rejected,Policy expired,True
+CLM-FEB3C52C,POL-039A573A,2023-09-09,202314,Repair of car damage,Pending,,True
+CLM-60723DC8,POL-D0DE7C38,2024-01-25,376893,Hospitalization for surgery,Pending,,True
+CLM-16EC2483,POL-36B79860,2024-06-14,251192,Medical treatment for disease,Pending,,False
+CLM-3C608A2E,POL-6AB10BD6,2025-04-22,255054,Repair costs for vehicle accident,Approved,,True
+CLM-E71A28CA,POL-E462B9A5,2025-05-09,176252,Repair costs for vehicle damage,Pending,,True
+CLM-2806EACC,POL-6C563E9F,2024-08-22,463121,Claim delay complaint,Pending,,True
+CLM-677181D3,POL-2999AFC9,2024-05-08,404063,Damage from flooding,Pending,,True
+CLM-03A8BCF6,POL-6CD2E878,2024-06-07,312073,Lost baggage claim,Rejected,Coverage does not apply,False
+CLM-6BF4401C,POL-BA0C4439,2025-03-20,446644,Flood damage to property,Approved,,False
+CLM-675A47C8,POL-D47FDD1B,2024-02-23,493330,Hospitalization due to pneumonia,Pending,,False
+CLM-C1BD535A,POL-A5C3EE25,2024-01-22,436186,Medical expenses for surgery,Pending,,True
+CLM-6E7CCE15,POL-0467E3EA,2025-02-15,228972,Claim for severe burns,Approved,,False
+CLM-FECAED7B,POL-A972A511,2025-05-05,155531,Hospitalization due to infection,Pending,,True
+CLM-8FFDA831,POL-74C0E4FD,2025-02-15,204840,Repair costs for vehicle damage,Rejected,Coverage does not apply,True
+CLM-FB3CFBF7,POL-635FCB0C,2025-03-22,103029,Medical treatment expenses,Rejected,Fraud suspicion,True
+CLM-D4E0BDE5,POL-5256E495,2024-07-08,55285,Fire damage to kitchen appliances,Rejected,Policy expired,False
+CLM-7960246D,POL-D9EC866B,2024-03-29,83720,Loss of luggage due to airline error,Rejected,Coverage does not apply,True
+CLM-9D0137D6,POL-9FB0268B,2024-08-09,116571,Customer dissatisfaction with claim process,Pending,,False
+CLM-FF2EEA07,POL-A18FC7AB,2023-12-14,296323,Claim for lost passport during trip,Pending,,True
+CLM-B9986A44,POL-39A9C765,2023-10-26,262702,Medical treatment for chronic illness,Pending,,True
+CLM-FC2745C4,POL-9B625A91,2024-05-12,493055,Hospital stay due to heart attack,Approved,,False
+CLM-44280CD6,POL-63F6616A,2025-05-11,477936,Hospital stay due to heart attack,Rejected,Coverage does not apply,False
+CLM-C5CFA4B9,POL-B426BB75,2024-03-04,326690,Reimbursement for diagnostic tests,Pending,,True
+CLM-79E7E0B2,POL-376F97BC,2024-03-25,475761,Hospital stay due to accident,Rejected,Policy expired,True
+CLM-A4FC493C,POL-A33A354E,2024-11-01,34270,Lost luggage reimbursement,Approved,,False
+CLM-AA825A0D,POL-6C627BA9,2024-10-10,406601,Death benefit claim,Pending,,True
+CLM-2CAFB2DF,POL-B9B8FFC0,2024-04-27,454627,Life insurance claim for accidental death,Approved,,False
+CLM-DDD34CC1,POL-8C0646E5,2023-12-03,380850,Claim delay complaint,Pending,,False
+CLM-ACAE9972,POL-FBFB02AC,2023-11-09,442987,Car theft recovery claim,Rejected,Policy expired,False
+CLM-75B7FC97,POL-AE17FE61,2024-08-18,89656,Claim for lost electronics during travel,Approved,,True
+CLM-39DB1BE2,POL-0097B428,2024-04-11,351459,Dispute over claim payment,Rejected,Policy expired,False
+CLM-17FC41AF,POL-905D7AE6,2024-08-19,246971,Reimbursement for prescription drugs,Rejected,Coverage does not apply,False
+CLM-8C85FC50,POL-A1207ED2,2024-06-14,117986,Life insurance payout request,Rejected,Policy expired,False
+CLM-795CA585,POL-FB4D46BF,2024-03-05,72053,Water damage claim,Pending,,True
+CLM-7FFE6AAA,POL-A8DC60AA,2024-02-06,114730,Investigation for fraudulent claim,Rejected,Fraud suspicion,False
+CLM-AE262D39,POL-A27CEFFE,2024-05-13,358331,Repair costs from vehicle collision,Pending,,True
+CLM-FEF20BCC,POL-6ACE4895,2024-12-17,31276,Repair costs for accident,Pending,,True
+CLM-73F044BF,POL-A70E9682,2023-12-15,298192,Loss of luggage reimbursement,Approved,,True
+CLM-55EED297,POL-45747B18,2023-06-03,62938,Life insurance payout request,Pending,,False
+CLM-5BDE54E3,POL-297BFEBA,2023-09-13,68283,Hospital stay for illness,Approved,,True
+CLM-53D59526,POL-B23AC4B2,2024-01-18,204529,Reimbursement for surgery,Rejected,Fraud suspicion,False
+CLM-B10FBEDE,POL-C793598E,2024-01-12,201299,Permanent total disability claim,Rejected,Incomplete documents,True
+CLM-D559F47F,POL-1E5C94E9,2024-05-12,471210,Fire damage to home,Pending,,False
+CLM-DCFAD286,POL-8373504E,2023-06-08,253728,Customer complaint on claim settlement,Rejected,Coverage does not apply,True
+CLM-8FCE22ED,POL-DE6FA1BB,2025-02-06,159841,Reimbursement for medication,Approved,,False
+CLM-B38BC574,POL-40AF7B4C,2024-03-24,72241,Dispute over claim payment,Pending,,True
+CLM-D7472326,POL-44367447,2025-01-25,402981,Medical treatment for injury,Approved,,True
+CLM-E36342FC,POL-0112C53A,2024-08-31,67205,Life insurance claim for terminal illness,Rejected,Coverage does not apply,False
+CLM-FEE593CE,POL-37A176EE,2024-03-23,123130,Reimbursement for medication,Pending,,True
+CLM-9EAB2A1B,POL-E012AD36,2024-06-19,179789,Damage from flooding,Rejected,Incomplete documents,False
+CLM-AC7F955D,POL-5D5F015C,2023-06-24,245209,Damage caused by storm,Rejected,Incomplete documents,True
+CLM-723C728B,POL-1FE27BD1,2025-05-04,496676,Repair for car engine failure,Pending,,True
+CLM-3C713028,POL-4ED9096D,2024-02-18,65826,Repair of cracked windshield,Approved,,True
+CLM-E4D6286D,POL-7A05D2C3,2023-09-20,125848,Reimbursement for surgery,Rejected,Fraud suspicion,True
+CLM-847A4A62,POL-71787824,2024-07-20,72151,Claim for partial disability,Rejected,Fraud suspicion,True
+CLM-CE5AC988,POL-0ACF9BEF,2023-11-29,237404,Fire damage to home,Approved,,True
+CLM-B924943C,POL-650BAE54,2024-09-11,66332,Claim dispute over rejection,Rejected,Incomplete documents,True
+CLM-53AE381C,POL-CFCAD0DD,2024-07-26,53002,Hospitalization for surgery,Approved,,True
+CLM-260372A0,POL-04025C4F,2025-05-22,396487,Lost baggage claim,Pending,,True
+CLM-8C2FA68E,POL-9930196E,2023-07-18,241629,Life insurance claim for accident,Pending,,False
+CLM-002598B9,POL-2E8B9D17,2023-06-18,59537,Hospital expenses for childbirth,Pending,,True
+CLM-C6757FFB,POL-08078450,2023-08-06,122842,Reimbursement for medication,Approved,,False
+CLM-66EA6CF3,POL-09FB0B51,2023-06-25,299436,Lost baggage reimbursement,Rejected,Incomplete documents,True
+CLM-E2FAFDE2,POL-E39031AD,2024-03-17,173181,Customer complaint about claim,Pending,,True
+CLM-12EA073A,POL-2EF30122,2023-12-09,459809,Lost baggage compensation,Approved,,False
+CLM-62E43308,POL-EE4B7823,2024-03-01,114981,Repair of damaged tail light,Rejected,Incomplete documents,False
+CLM-B572096A,POL-8DE0AE3A,2025-01-09,428523,Storm damage to windows,Rejected,Policy expired,True
+CLM-A5F5E508,POL-8ABAD44A,2024-08-20,17344,Customer dissatisfaction with claim process,Approved,,True
+CLM-436EDA6F,POL-B6285361,2024-12-14,66274,Repair costs for accident damage,Approved,,False
+CLM-2CC15F9E,POL-35DD03F5,2025-04-13,22556,Claim for loss of use of limb,Pending,,True
+CLM-0B646868,POL-A67006BF,2024-09-07,315518,Dispute over claim amount,Rejected,Policy expired,True
+CLM-24DAA3DE,POL-2406B072,2024-09-18,181512,Repair costs from vehicle collision,Approved,,True
+CLM-3153DC72,POL-19C388C0,2023-09-02,356194,Repair costs for vehicle damage,Approved,,False
+CLM-743AEC62,POL-71BF18A7,2024-12-07,318028,Customer complaint on claim,Approved,,True
+CLM-575381BB,POL-FC5BEB26,2024-01-25,323521,Claim for loss of sight,Rejected,Coverage does not apply,False
+CLM-5049617B,POL-38C3B05B,2023-08-30,116644,Loss of valuables during trip,Rejected,Fraud suspicion,False
+CLM-47021A80,POL-E0077017,2024-11-23,179281,Life insurance claim for natural death,Rejected,Policy expired,True
+CLM-F88A0ADE,POL-046265E0,2024-09-22,225920,Repair of car door damage,Approved,,False
+CLM-F1787C8A,POL-7F4C0E82,2025-05-26,243247,Death due to accident,Rejected,Incomplete documents,False
+CLM-C00014F2,POL-488A8EA9,2023-07-15,250467,Loss of personal items claim,Pending,,False
+CLM-8AEAA1E4,POL-4408AB67,2023-12-22,151655,Loss of valuables in theft,Approved,,True
+CLM-110D2FFE,POL-F94BB98C,2023-07-02,403907,Damage from earthquake,Pending,,False
+CLM-990D6028,POL-A9F2898C,2023-06-09,124940,Medical expenses for heart surgery,Rejected,Fraud suspicion,False
+CLM-9D9BA984,POL-49396D85,2024-07-08,47574,Medical expenses for diabetes treatment,Pending,,False
+CLM-43D60093,POL-2BD1B168,2024-12-02,147797,Reimbursement for physical therapy,Pending,,False
+CLM-E6AC8A38,POL-C801C2B0,2024-12-08,374664,Accidental death claim,Pending,,False
+CLM-0CF6289C,POL-5C66A317,2025-03-16,171583,Loss of valuables claim,Approved,,True
+CLM-9892D6FE,POL-E11A9651,2024-06-16,168130,Medical expenses for heart surgery,Rejected,Fraud suspicion,False
+CLM-A214F98E,POL-BFF1F17F,2024-10-17,83540,Medical expenses for asthma,Approved,,False
+CLM-5B6A8955,POL-BB4E4C4D,2024-07-07,27887,Fire damage to house,Pending,,False
+CLM-12F53726,POL-10EF1819,2025-02-22,448295,Medical treatment expenses,Approved,,False
+CLM-86CA4252,POL-4A161C4E,2024-11-03,298503,Medical expenses for heart surgery,Rejected,Coverage does not apply,True
+CLM-73BD8B47,POL-8DB937ED,2024-05-16,336646,Customer dissatisfaction with claims,Approved,,True
+CLM-BE1FCDB8,POL-4DDE8CCB,2024-08-25,142653,Loss of luggage due to airline error,Approved,,True
+CLM-DADE79AE,POL-85EC39C4,2023-06-25,413064,Customer complaint about claim,Pending,,True
+CLM-6D9F2C2C,POL-F485752C,2023-09-16,280519,Claim for canceled trip expenses,Approved,,False
+CLM-5F17A3ED,POL-9831604B,2024-03-16,331140,Damage from burglary,Pending,,True
+CLM-E31A17AA,POL-FC02980D,2023-12-23,280479,Lost baggage compensation,Approved,,True
+CLM-08DC26AB,POL-812FA329,2024-03-12,43857,Claim for lost electronics during travel,Rejected,Incomplete documents,True
+CLM-07DD0923,POL-830950A9,2025-03-30,200688,Customer complaint about claim,Pending,,True
+CLM-58F2030F,POL-6266F74B,2025-03-24,471208,Life insurance claim payout,Pending,,True
+CLM-EF6E40BE,POL-1B2D11DB,2025-05-19,238537,Hospital stay due to accident,Approved,,True
+CLM-28B17E07,POL-4905A08C,2023-11-14,426429,Water damage claim,Pending,,False
+CLM-25BBAE47,POL-53EC5516,2024-10-04,269315,Claim for temporary disability,Rejected,Fraud suspicion,False
+CLM-22176EA4,POL-B8A4D99C,2024-01-25,188417,Claim for permanent injury,Pending,,False
+CLM-954294D3,POL-AF3126AE,2023-07-17,266527,Lost luggage reimbursement,Pending,,True
+CLM-7CB86C88,POL-822FD8D7,2023-09-27,184270,Medical treatment for chronic disease,Rejected,Incomplete documents,True
+CLM-7459495F,POL-46CE37ED,2023-06-18,74923,Loss of personal belongings claim,Approved,,False
+CLM-582E7626,POL-2DFE7B54,2024-06-03,363621,Claim for loss of mobility,Rejected,Fraud suspicion,True
+CLM-86468FA3,POL-034FA29B,2024-04-20,72455,Medical treatment for chronic disease,Approved,,True
+CLM-7AA6965D,POL-D2E9A3A1,2025-05-20,322160,Repair of car damage,Approved,,True
+CLM-0D0309D1,POL-70CBDAD8,2024-12-27,406180,Water damage to home,Rejected,Coverage does not apply,False
+CLM-AD1E185C,POL-FEA37053,2024-08-02,202790,Damage caused by vandalism,Pending,,True
+CLM-C72313D8,POL-B5DC6405,2024-04-02,15640,Lost baggage compensation,Rejected,Fraud suspicion,True
+CLM-7788A0B2,POL-6BA1EB25,2024-02-02,344778,Life insurance payout request,Rejected,Policy expired,True
+CLM-F1082CDC,POL-C7F7EF37,2023-10-20,478126,Life insurance claim due to illness,Rejected,Fraud suspicion,True
+CLM-BF12A547,POL-E45678DE,2024-09-27,162984,Repair costs for accident,Rejected,Policy expired,True
+CLM-C1BE9C0A,POL-2D0E5B37,2024-03-29,284058,Repair of scratched paint,Rejected,Policy expired,False
+CLM-9D570D8F,POL-519B7E00,2023-07-12,475752,Claim for loss of hand,Pending,,False
+CLM-47ABEE00,POL-DD544187,2024-05-09,388818,Loss of luggage reimbursement,Approved,,True
+CLM-C2AAC231,POL-D903A8F1,2024-06-14,372427,Life insurance claim for accidental death,Rejected,Policy expired,True
+CLM-D0D5B2A8,POL-3E76627F,2024-02-08,462326,Loss of valuables in hotel theft,Pending,,False
+CLM-6686B485,POL-9C6AC665,2025-01-01,479090,Life insurance claim for terminal illness,Rejected,Fraud suspicion,True
+CLM-1341E9AD,POL-781EBC85,2023-10-21,21079,Life insurance claim for accidental death,Rejected,Incomplete documents,False
+CLM-C74D4489,POL-2BFAF83D,2023-08-26,82356,Loss of valuables in hotel theft,Rejected,Policy expired,True
+CLM-A76039BF,POL-128CC27B,2023-08-31,170869,Damage from burglary,Rejected,Fraud suspicion,False
+CLM-310CB09D,POL-B389506E,2024-07-04,272031,Life insurance claim for terminal illness,Approved,,True
+CLM-E440DE06,POL-0B51D6E5,2024-01-29,345779,Damage caused by storm,Rejected,Incomplete documents,True
+CLM-08E5AE8A,POL-0009E30A,2024-12-20,458475,Reimbursement for prescription drugs,Approved,,True
+CLM-BC25FB58,POL-8B05F3FF,2023-06-22,193786,Damage caused by storm,Approved,,True
+CLM-6C362AF3,POL-8F663C98,2023-12-11,491161,Repair costs for vehicle damage,Pending,,False
+CLM-2BD85F7A,POL-74B6AF86,2025-02-21,142409,Repair costs for collision damage,Approved,,True
+CLM-A82F20E3,POL-8A8FD9BB,2025-01-21,23539,Claim process dispute,Approved,,False
+CLM-622BECCA,POL-C3313A64,2024-05-21,380707,Life insurance claim for accidental death,Pending,,False
+CLM-5C887F47,POL-EA22A751,2024-03-09,310723,Loss of personal items during travel,Rejected,Incomplete documents,False
+CLM-6FD25C79,POL-50D4B795,2024-03-09,414920,Complaint about claim process delay,Approved,,False
+CLM-8CC51605,POL-296759C0,2023-06-07,203046,Life insurance beneficiary update,Rejected,Incomplete documents,False
+CLM-8CEB46CB,POL-DB360CC9,2024-06-27,207698,Repair of damaged car parts,Pending,,True
+CLM-A9E9610D,POL-6DF28C4C,2024-06-02,409808,Loss of valuables claim,Rejected,Fraud suspicion,False
+CLM-67FCDD78,POL-28CD2DA6,2024-11-27,135137,Medical expenses for surgery,Rejected,Incomplete documents,False
+CLM-DF5FD942,POL-03583A6A,2025-01-10,415445,Lost baggage compensation,Rejected,Fraud suspicion,True
+CLM-CD710BC4,POL-638F2D32,2023-12-19,249680,Life insurance payout request,Rejected,Incomplete documents,False
+CLM-CECD8195,POL-B255CC4F,2025-02-13,441706,Repair costs from vehicle collision,Pending,,False
+CLM-0A38B512,POL-B3C09B90,2024-06-01,153027,Dispute over claim payout,Rejected,Policy expired,True
+CLM-45E513BC,POL-E032474F,2024-07-08,192821,Hospitalization due to illness,Approved,,False
+CLM-B0D8BDD6,POL-AED6B102,2023-07-25,383715,Hospital stay for illness,Pending,,False
+CLM-E414ACD7,POL-961C2AFE,2024-03-22,63405,Fire damage to building,Rejected,Incomplete documents,False
+CLM-F6B826E7,POL-8B185EEE,2025-02-01,210167,Life insurance claim payout,Rejected,Incomplete documents,False
+CLM-3023C183,POL-FB88C776,2024-01-21,231859,Water damage to home,Rejected,Incomplete documents,True
+CLM-C90EE278,POL-0D96F20B,2023-12-20,57915,Water damage from burst pipe,Approved,,False
+CLM-141B958D,POL-4C97275F,2025-03-16,435642,Compensation for permanent disability,Rejected,Fraud suspicion,False
+CLM-4F8AE935,POL-47D328D4,2025-04-10,259664,Disability claim due to workplace injury,Pending,,False
+CLM-F423F433,POL-605C6E45,2023-10-04,272637,Customer service complaint on claim,Rejected,Coverage does not apply,False
+CLM-C345AB51,POL-643C569D,2024-04-21,86020,Medical expenses for heart surgery,Approved,,False
+CLM-7F6581FC,POL-C9500C3C,2024-02-13,36862,Claim dispute over payout,Approved,,False
+CLM-965718B9,POL-E45331A1,2024-11-15,151715,Medical treatment expenses,Rejected,Coverage does not apply,False
+CLM-CEA8677A,POL-B4D40E3F,2023-11-23,326123,Storm damage to windows,Rejected,Fraud suspicion,True
+CLM-A3946941,POL-0262A14B,2023-09-14,403542,Claim for loss of limb function,Approved,,False
+CLM-79012B67,POL-6DAEA846,2024-08-18,196907,Reimbursement for physiotherapy,Approved,,False
+CLM-FF94C788,POL-6656E9F6,2023-06-15,180602,Customer dissatisfaction with claim process,Rejected,Incomplete documents,False
+CLM-1E3EFAD6,POL-C50B624D,2025-04-28,425165,Hospitalization for infection,Approved,,False
+CLM-8F3AC9B7,POL-32E4D712,2024-06-28,421078,Repair costs for accident damage,Approved,,True
+CLM-F9C52CA5,POL-2CD813F8,2025-01-30,87715,Loss of luggage reimbursement,Rejected,Fraud suspicion,True
+CLM-53878FEA,POL-0A00B91C,2024-07-27,319601,Claim for critical illness,Rejected,Policy expired,False
+CLM-B4DD3397,POL-F05E6F4D,2024-08-28,378244,Death benefit payout,Pending,,True
+CLM-B84EEE77,POL-96EF1E4C,2025-04-05,231346,Claim for loss of hand,Approved,,True
+CLM-17ED18BE,POL-DD5D3065,2024-11-03,175117,Car vandalism repair,Rejected,Policy expired,True
+CLM-8E114F5E,POL-6C3F6734,2025-01-23,142318,Repair costs for accident damage,Rejected,Fraud suspicion,True
+CLM-77499DE5,POL-234A2F63,2024-10-25,290458,Claim for permanent disability,Approved,,True
+CLM-DE5EC925,POL-D6D8B110,2023-12-14,207029,Medical expenses for surgery,Rejected,Policy expired,True
+CLM-26C42982,POL-A1A6C50F,2024-11-04,11473,Claim for permanent disability,Rejected,Incomplete documents,False
+CLM-621B3BEA,POL-74C7F657,2024-06-21,113933,Delay in claim processing,Pending,,True
+CLM-37E4417C,POL-64F3D427,2025-05-01,368874,Life insurance claim due to accident,Approved,,False
+CLM-82DD552A,POL-5097EF1F,2023-11-06,93029,Repair costs for vehicle collision,Rejected,Coverage does not apply,True
+CLM-63E7BEC4,POL-D2A877AF,2024-04-14,208239,Claim for loss of hearing,Pending,,True
+CLM-D64E8EB2,POL-E78749F3,2025-03-01,322482,Claim for loss of limb,Rejected,Fraud suspicion,False
+CLM-55CCA2B4,POL-30B2736D,2024-02-04,219028,Claim for temporary disability,Pending,,True
+CLM-8DAD117B,POL-10605A3A,2025-03-08,436881,Dispute over claim payment,Approved,,True
+CLM-574C2AF5,POL-8DF1B6BF,2025-04-29,360949,Hospitalization due to infection,Approved,,True
+CLM-DC5BDDEB,POL-7AB413B6,2023-09-21,486189,Lost baggage during travel,Approved,,False
+CLM-B8A0F66F,POL-619FBF54,2025-02-02,419002,Repair of car door damage,Rejected,Incomplete documents,False
+CLM-B24FE937,POL-5743630E,2025-02-17,335340,Claim for loss of use of limb,Rejected,Fraud suspicion,True
+CLM-EB6845D3,POL-41C7FDCE,2024-04-08,256445,Loss of personal items in transit,Rejected,Fraud suspicion,False
+CLM-6296489D,POL-9E328CB0,2023-09-24,324052,Hospitalization due to chronic illness,Approved,,True
+CLM-D19DC41C,POL-8A090EF6,2025-03-11,192523,Disability claim due to workplace injury,Approved,,True
+CLM-20F03272,POL-B98653BF,2025-05-16,177295,Lost baggage claim,Approved,,True
+CLM-5E12C7B1,POL-8978F538,2023-06-02,179164,Medical expenses for heart surgery,Approved,,False
+CLM-3300964A,POL-7D2FEEE8,2024-07-31,351869,Water damage claim,Approved,,False
+CLM-D50723A4,POL-70A1B95E,2023-09-15,267175,Life insurance claim for terminal illness,Rejected,Policy expired,True
+CLM-DA2C80E2,POL-C4464D4A,2024-06-04,447251,Life insurance claim for terminal illness,Pending,,True
+CLM-567E146E,POL-AAD4F7E7,2025-05-07,170255,Medical emergency overseas,Pending,,True
+CLM-458A9CB4,POL-A3DE6524,2024-08-29,483332,Claim for loss of hearing ability,Rejected,Coverage does not apply,False
+CLM-6611F79B,POL-60380F7F,2024-05-02,174991,Loss of valuables in hotel theft,Pending,,False
+CLM-B34BD7BA,POL-5491BAC9,2024-12-04,49804,Storm damage to roof,Pending,,True
+CLM-B989C1D3,POL-40FE2EDC,2024-02-17,51236,Reimbursement for medication,Approved,,False
+CLM-73A289E9,POL-E8898790,2025-05-14,305118,Medical expenses for heart surgery,Approved,,False
+CLM-ECCD143C,POL-FE698BB5,2024-07-18,302433,Claim for permanent disability,Pending,,True
+CLM-8C8B807C,POL-9364C883,2024-02-06,232806,Car accident damages,Rejected,Incomplete documents,True
+CLM-89429BB1,POL-7440D2FC,2023-07-12,106548,Claim for loss of use of limb,Rejected,Fraud suspicion,True
+CLM-550FD2F5,POL-3174D425,2024-10-01,270378,Fraudulent claim investigation,Approved,,True
+CLM-F7D590FE,POL-A18C1997,2024-08-02,32769,Repair of damaged car parts,Rejected,Coverage does not apply,False
+CLM-CBD5A8E5,POL-1CE22352,2024-04-07,169969,Damage from hailstorm,Approved,,False
+CLM-0BA72E30,POL-7BC941B8,2023-10-15,87176,Medical expenses for stroke treatment,Pending,,True
+CLM-B670B14A,POL-7CD07424,2023-10-27,95875,Medical treatment for chronic disease,Rejected,Incomplete documents,True
+CLM-BA65459B,POL-AFB31B25,2024-04-08,176186,Hospitalization for infection,Approved,,False
+CLM-489507BF,POL-158FF986,2023-11-11,287743,Customer complaint on claim,Approved,,True
+CLM-120FABC4,POL-44827AB3,2024-09-04,265214,Life insurance claim for natural death,Rejected,Incomplete documents,True
+CLM-A9C97F1E,POL-CC895715,2024-03-05,496620,Hospital stay due to injury,Rejected,Fraud suspicion,False
+CLM-740D589B,POL-34407BFD,2024-01-10,193198,Life insurance claim payout,Approved,,True
+CLM-8ABD23C6,POL-796EA815,2025-04-13,288908,Hospitalization due to pneumonia,Rejected,Policy expired,True
+CLM-86E68FD4,POL-D6E91B0D,2025-05-06,435762,Repair costs for collision damage,Approved,,True
+CLM-2CABBEF8,POL-8AEFA3FC,2023-11-17,430776,Claim delay complaint,Rejected,Fraud suspicion,True
+CLM-23FBDE7D,POL-A57EBB0A,2023-06-18,357311,Life insurance claim for accident,Pending,,True
+CLM-454297A6,POL-01B6A87F,2025-02-13,220762,Loss of valuables claim,Pending,,False
+CLM-7AFC9812,POL-0A8E72E4,2025-04-25,267682,Claim for partial loss of use,Approved,,False
+CLM-D6DCEFFF,POL-2410FF3A,2024-04-06,321372,Life insurance payout for accident,Rejected,Fraud suspicion,False
+CLM-B0F1B2C6,POL-F084E40D,2024-08-19,265990,Life insurance claim due to illness,Pending,,True
+CLM-F57EFE31,POL-BB628E3C,2024-05-17,331161,Medical treatment for injury,Rejected,Incomplete documents,True
+CLM-3F1E508D,POL-A16F80DF,2024-06-17,223265,Medical expenses for heart surgery,Rejected,Fraud suspicion,True
+CLM-5CDC0BE3,POL-68A3A230,2024-07-17,88793,Reimbursement for hospital charges,Approved,,False
+CLM-7F3D5F0D,POL-5D4DBC9E,2024-01-16,213249,Repair of broken tail light,Approved,,True
+CLM-46D3B395,POL-65487A7D,2023-11-23,280712,Repair costs for accident damage,Pending,,True
+CLM-5FE1E429,POL-F8448AF8,2023-09-11,65545,Claim for temporary disability,Rejected,Coverage does not apply,True
+CLM-11D6164F,POL-79BFBAF8,2025-03-14,205366,Life insurance payout for accident,Rejected,Fraud suspicion,False
+CLM-31240E40,POL-763ECF29,2024-07-05,431996,Hospital stay for appendicitis,Approved,,True
+CLM-C0A36702,POL-19865649,2023-07-19,435095,Repair costs for accident damage,Approved,,False
+CLM-6444FE08,POL-0F984338,2024-12-17,423080,Claim for loss of speech,Rejected,Coverage does not apply,True
+CLM-B53121C1,POL-95FFCE5E,2024-08-15,458052,Damage due to burglary,Approved,,True
+CLM-CA04E4AA,POL-51AE879A,2024-01-30,423158,Damage from hailstorm,Approved,,False
+CLM-30E302AA,POL-86523EFA,2024-07-09,134156,Customer service complaint on claim,Pending,,True
+CLM-3F41C9CC,POL-D24FB1AB,2025-02-26,229909,Life insurance claim due to illness,Pending,,True
+CLM-92B8EEE6,POL-68275315,2024-11-01,443995,Loss of valuables claim,Rejected,Coverage does not apply,False
+CLM-3F9E5A08,POL-E8D1EA22,2024-07-08,144423,Claim for permanent injury,Pending,,True
+CLM-78D21451,POL-4A097C9A,2025-04-29,285055,Customer complaint about claim,Rejected,Incomplete documents,False
+CLM-D792E566,POL-63B05A1A,2025-05-10,391094,Medical expenses for surgery,Rejected,Incomplete documents,False
+CLM-B3E1A729,POL-07E43001,2024-03-31,434083,Life insurance claim for natural death,Pending,,True
+CLM-09CBC8A2,POL-A271415E,2023-07-23,428720,Repair of damaged windshield,Rejected,Coverage does not apply,True
+CLM-BFA674E0,POL-4F0AFB0D,2023-10-19,212819,Claim for loss of hearing ability,Approved,,False
+CLM-478634FE,POL-5F7DA0E8,2023-08-30,360222,Damage from tornado,Pending,,False
+CLM-FC779A6B,POL-316D033D,2023-11-09,55195,Medical treatment for injury,Rejected,Policy expired,False
+CLM-997DA353,POL-860FF907,2023-09-04,213237,Hospitalization due to accident,Rejected,Fraud suspicion,True
+CLM-51379E6D,POL-D6186FB9,2025-02-11,113550,Reimbursement for surgery,Pending,,True
+CLM-9D486DA1,POL-3F67B8AC,2024-04-01,161571,Damage caused by storm,Rejected,Fraud suspicion,False
+CLM-8E616833,POL-27A112EB,2025-02-07,388918,Loss of luggage during flight,Rejected,Coverage does not apply,False
+CLM-E3AA04C6,POL-B82AF692,2023-11-19,204207,Medical expenses for cancer treatment,Approved,,False
+CLM-8E439D34,POL-EECA2C3A,2024-12-23,321536,Customer complaint on claim,Approved,,False
+CLM-E5FE3230,POL-1D4546A5,2023-08-12,342046,Claim for loss of limb function,Approved,,False
+CLM-E55E0556,POL-8ACC9C5D,2023-11-15,171190,Hospitalization for respiratory illness,Rejected,Fraud suspicion,False
+CLM-E3984BA7,POL-00AA1222,2024-06-21,274388,Claim for partial loss of use,Approved,,True
+CLM-BA1AF8F5,POL-44311FE8,2025-04-27,22323,Loss of valuables in hotel theft,Pending,,True
+CLM-AD88A16B,POL-DF915D69,2023-08-19,384531,Repair of cracked windshield,Pending,,True
+CLM-16E330A1,POL-655354A4,2023-12-02,118420,Hospital stay for illness,Approved,,True
+CLM-CC48492C,POL-95BCC919,2023-06-05,291027,Life insurance payout for illness,Pending,,False
+CLM-C5E575D3,POL-2F122436,2024-12-06,405508,Hospital stay for childbirth,Pending,,False
+CLM-5E777FFA,POL-3A14563C,2024-09-01,72829,Hospital expenses for childbirth,Approved,,False
+CLM-2C6402C0,POL-EB5E8F19,2023-10-20,278326,Claim for loss of limb function,Pending,,True
+CLM-6A53FEEE,POL-D8E72F1B,2024-07-26,316538,Fraudulent claim investigation,Pending,,False
+CLM-8764DD5F,POL-4E328EDA,2024-10-06,321344,Medical expenses for surgery,Rejected,Incomplete documents,False
+CLM-734476D1,POL-7D19D854,2024-08-31,462009,Medical treatment for injury,Approved,,False
+CLM-A70E6B86,POL-AEBC0BEF,2023-11-01,164746,Repair of damaged car parts,Rejected,Coverage does not apply,False
+CLM-F018A6B7,POL-F1308E26,2024-01-16,185459,Loss of valuables during trip,Rejected,Coverage does not apply,True
+CLM-67F2692C,POL-72455B00,2023-08-03,474583,Claim for temporary disability,Rejected,Fraud suspicion,False
+CLM-952B004F,POL-9D50FAAD,2024-06-24,277954,Dispute over claim payment,Rejected,Policy expired,True
+CLM-23ECABF0,POL-DBEB229A,2023-07-22,163216,Life insurance claim for accident victim,Approved,,False
+CLM-D9E86D23,POL-53F5B9E6,2023-10-24,431690,Loss of valuables in hotel theft,Approved,,True
+CLM-4E21A25B,POL-B7A2EA25,2024-11-02,28503,Repair of broken tail light,Rejected,Coverage does not apply,False
+CLM-31407628,POL-D6D152B7,2024-12-05,384673,Fire damage to home,Rejected,Coverage does not apply,True
+CLM-5B3B9E09,POL-B4E68D2F,2023-11-19,460456,Dispute over claim amount,Rejected,Fraud suspicion,True
+CLM-BC1DCBCD,POL-5EFC3845,2023-08-06,48269,Permanent total disability claim,Pending,,False
+CLM-F909D40D,POL-59B6E135,2024-12-02,106501,Claim for loss of speech,Pending,,True
+CLM-331CE16A,POL-1500CF62,2024-12-24,403043,Lost travel accessories claim,Pending,,False
+CLM-43AB5B00,POL-8663A614,2025-02-03,472345,Claim dispute over denial,Rejected,Fraud suspicion,True
+CLM-BD0C16B6,POL-2F900C83,2023-10-04,316842,Hospitalization for respiratory illness,Rejected,Coverage does not apply,False
+CLM-70047848,POL-1CEF9400,2025-02-14,199557,Reimbursement for medication,Pending,,True
+CLM-AD7E43C5,POL-2C0BDE71,2024-12-28,22802,Investigation for fraudulent claim,Approved,,False
+CLM-6269D0EA,POL-32849EB4,2024-12-26,307856,Lost baggage compensation,Pending,,False
+CLM-D8215F83,POL-43A159B9,2024-01-25,13270,Life insurance claim payout,Approved,,False
+CLM-9F95F57D,POL-489B8EAD,2023-10-02,222261,Medical expenses for asthma,Rejected,Coverage does not apply,False
+CLM-864C446B,POL-EB45E0DD,2023-10-29,99801,Storm damage to property,Pending,,True
+CLM-971625CC,POL-66BFD560,2023-09-17,60483,Hospitalization due to pneumonia,Rejected,Incomplete documents,False
+CLM-FC5BA3C6,POL-2E1EB217,2024-08-28,16744,Loss of luggage reimbursement,Rejected,Policy expired,True
+CLM-C7391F8B,POL-77684FDA,2023-12-05,240560,Hospitalization for surgery,Rejected,Policy expired,True
+CLM-768AB525,POL-AB8F6A59,2023-10-31,301008,Claim for lost income due to disability,Pending,,True
+CLM-7164D07E,POL-3DDD75ED,2023-10-30,276983,Claim dispute over denial,Pending,,True
+CLM-537DB82E,POL-18F61AD3,2024-01-21,172443,Permanent total disability claim,Pending,,False
+CLM-3343AFA3,POL-8E8B7119,2023-09-27,93786,Hospital stay due to accident,Rejected,Policy expired,False
+CLM-8C256182,POL-C7D4A25F,2025-04-17,101826,Hospital stay for disease,Approved,,False
+CLM-BC68710E,POL-19F0AB91,2024-03-20,289703,Life insurance claim for natural death,Rejected,Policy expired,False
+CLM-E3EE760A,POL-05CA23D7,2025-03-16,79306,Repair costs from vehicle collision,Approved,,False
+CLM-446E1045,POL-3A6B43DC,2025-03-06,142472,Medical expenses for allergy treatment,Approved,,True
+CLM-11C5719A,POL-E0ACDABE,2023-10-16,300691,Car vandalism repair,Approved,,False
+CLM-693BDCD5,POL-7248777B,2024-04-27,422348,Life insurance claim for natural death,Rejected,Incomplete documents,True
+CLM-5660C935,POL-A53DDB54,2024-06-08,221239,Claim delay complaint,Rejected,Fraud suspicion,False
+CLM-55A9662E,POL-09A3D43F,2023-06-05,194783,Life insurance claim due to accident,Approved,,False
+CLM-CFD29DC6,POL-BE8F7B18,2025-02-20,19540,Claim for permanent disability,Approved,,False
+CLM-AF442FFD,POL-45B19CAF,2025-01-28,288931,Claim process delay complaint,Rejected,Fraud suspicion,False
+CLM-B2CFD00F,POL-59A7B0FC,2025-03-02,240408,Life insurance claim for natural death,Rejected,Incomplete documents,True
+CLM-A535E075,POL-82E5FEDE,2024-02-25,86912,Hospital stay due to injury,Approved,,True
+CLM-500BA080,POL-6737E3F1,2024-09-25,119763,Damage from flooding,Approved,,True
+CLM-AA0A03B5,POL-CDF87474,2025-03-21,362764,Loss of personal belongings,Approved,,False
+CLM-9DFDBEA8,POL-9DE68791,2024-07-09,405367,Repair of side mirror damage,Approved,,True
+CLM-2CC1D225,POL-50331CB3,2024-06-22,420120,Medical treatment for disease,Approved,,False
+CLM-1768579D,POL-643AAC2A,2025-05-10,288930,Life insurance claim due to natural death,Approved,,False
+CLM-5C8FBFF9,POL-68244894,2024-05-02,420719,Theft of personal belongings from vehicle,Approved,,False
+CLM-D2160EE9,POL-3405B22D,2024-07-26,231724,Medical expenses for asthma,Approved,,True
+CLM-1CDACA7D,POL-7D391E1F,2024-09-06,139899,Hospitalization for surgery,Rejected,Incomplete documents,True
+CLM-BFA1C691,POL-4FBB41C6,2023-06-27,126572,Claim for loss of limb,Approved,,False
+CLM-6BFF38BB,POL-ED752CD9,2023-07-15,449685,Loss of electronics in theft,Rejected,Coverage does not apply,False
+CLM-EB46665F,POL-8D5F2AEB,2025-04-14,412865,Reimbursement for surgery,Rejected,Coverage does not apply,True
+CLM-BCF8222F,POL-67403053,2024-10-13,308617,Customer complaint on claim delay,Rejected,Coverage does not apply,False
+CLM-531E6D4E,POL-D264CD61,2025-02-04,25219,Claim for permanent disability,Pending,,True
+CLM-1FBCAF5D,POL-835547EF,2024-06-07,29941,Hospital stay for appendicitis,Approved,,True
+CLM-F3B10D41,POL-201A879A,2024-10-12,259770,Fire damage to property,Pending,,False
+CLM-450F48DD,POL-C51979B7,2023-11-14,120067,Medical treatment for heart disease,Approved,,False
+CLM-19FB8616,POL-1E08537B,2024-01-10,220191,Loss of personal belongings,Pending,,False
+CLM-FD40EEF8,POL-1ECC87CC,2024-11-05,373217,Accidental injury claim,Approved,,False
+CLM-58453A2A,POL-42A45D83,2024-04-27,423042,Loss of personal items during travel,Approved,,False
+CLM-B6C32625,POL-7337C4E0,2023-12-23,262043,Storm damage to property,Approved,,False
+CLM-149AE4EC,POL-817C574D,2024-10-10,145218,Reimbursement for medication,Approved,,False
+CLM-4B162053,POL-3BBD2AAF,2023-12-01,296292,Hospital stay due to accident injuries,Rejected,Incomplete documents,False
+CLM-34F76EAE,POL-C6F169C3,2024-08-02,15767,Hospital stay for illness,Approved,,False
+CLM-8544ABA4,POL-71EED5BB,2024-10-03,487948,Fraudulent claim investigation,Rejected,Policy expired,True
+CLM-58DA1BAB,POL-89419E85,2024-07-31,336240,Delay in claim processing,Approved,,False
+CLM-8533FA82,POL-6FA95F9D,2025-03-01,430815,Payout for terminal illness,Rejected,Fraud suspicion,False
+CLM-FA1034D7,POL-514C0B22,2024-10-30,456559,Life insurance claim for terminal illness,Pending,,False
+CLM-7033D2AF,POL-946CC022,2025-02-07,422790,Repair of damaged tail light,Pending,,False
+CLM-1CDA4C87,POL-669C2E3A,2025-01-24,277214,Life insurance claim payout,Approved,,True
+CLM-57517983,POL-859A0A72,2024-01-31,95148,Claim process delay,Pending,,False
+CLM-F6C90903,POL-91ECCEB3,2024-02-04,88589,Life insurance claim for terminal illness,Approved,,False
+CLM-BED7D096,POL-8E6F49AF,2023-07-23,387292,Hospital expenses for childbirth,Pending,,True
+CLM-3C49B97E,POL-E2309596,2024-11-22,482973,Medical expenses for heart surgery,Rejected,Fraud suspicion,False
+CLM-871D1F7A,POL-26909394,2024-04-14,175326,Death due to accident,Pending,,True
+CLM-0674C29F,POL-2EE18898,2024-08-15,105772,Medical treatment for asthma attack,Pending,,False
+CLM-5ECFF4E8,POL-8563987A,2024-11-28,383431,Hospital stay for illness,Approved,,False
+CLM-22AF515A,POL-89500473,2023-10-17,310150,Loss of luggage claim,Pending,,True
+CLM-FF3461CF,POL-924A2E95,2023-11-16,300721,Hospital stay due to accident injuries,Approved,,True
+CLM-CB9986BD,POL-4A14A5E2,2023-09-15,244404,Claim for loss of sight,Rejected,Coverage does not apply,False
+CLM-25922A85,POL-2617F0F7,2024-04-03,168888,Hospital stay for illness,Rejected,Fraud suspicion,False
+CLM-95C08972,POL-98FC6728,2024-11-11,325020,Life insurance claim for accident,Approved,,True
+CLM-5177A2CF,POL-760454D1,2025-04-27,213814,Medical emergency overseas,Approved,,False
+CLM-CF4EAC84,POL-0780A8E7,2024-09-30,37736,Repair of broken tail light,Pending,,True
+CLM-A52A099C,POL-A4DAB80E,2023-12-12,149093,Delay in claim processing,Pending,,True
+CLM-C714DD59,POL-7667D517,2024-03-22,152896,Lost baggage reimbursement,Approved,,True
+CLM-BEA60532,POL-B9EB054B,2024-03-21,240979,Medical expenses for surgery,Pending,,False
+CLM-C725D82A,POL-2EC2BB96,2024-07-23,169783,Damage due to burglary,Rejected,Incomplete documents,True
+CLM-71462D08,POL-422AEEEA,2024-06-03,14067,Hospital stay for serious injury,Pending,,True
+CLM-0747A5F2,POL-B2AB25E5,2024-07-04,220723,Repair of cracked windshield,Pending,,False
+CLM-E14F9234,POL-A154B7CF,2024-10-17,434710,Claim for total disability,Rejected,Policy expired,True
+CLM-B3A3A072,POL-92CBCBE1,2024-09-29,53077,Water damage from heavy rain,Rejected,Incomplete documents,True
+CLM-9995D0AD,POL-9FDB6584,2023-08-05,415810,Loss of luggage claim,Pending,,True
+CLM-7AC40E43,POL-4FD42D11,2023-11-03,382303,Life insurance claim for illness,Approved,,False
+CLM-DF18B5AD,POL-A4CB78D9,2025-02-01,324506,Claim delay complaint,Approved,,True
+CLM-59CD9D3F,POL-3F387B1D,2023-12-08,453397,Fire damage to building,Approved,,True
+CLM-66381441,POL-078F967C,2024-08-22,418266,Claim for permanent injury,Rejected,Incomplete documents,False
+CLM-1155F1AB,POL-CAD8DF10,2024-12-22,144729,Hospitalization for kidney failure,Approved,,True
+CLM-EA194AC2,POL-BB2CB059,2024-09-08,480677,Medical expenses for asthma,Pending,,True
+CLM-E439E6DA,POL-F33B3434,2023-08-31,148614,Reimbursement for medication,Approved,,False
+CLM-0805EE32,POL-45C5846C,2025-02-25,109307,Delay in claim approval,Approved,,True
+CLM-94970A82,POL-CD4A716C,2024-07-05,262342,Loss of luggage reimbursement,Pending,,False
+CLM-3C2B9250,POL-927814F2,2024-07-27,359429,Claim for loss of use of limb,Approved,,True
+CLM-F05F866B,POL-3F990A2D,2023-09-23,389243,Emergency dental treatment,Rejected,Policy expired,False
+CLM-4B5A8D19,POL-5DBFDACC,2023-12-06,46603,Lost baggage claim,Rejected,Fraud suspicion,True
+CLM-CD3D90BE,POL-587D7703,2024-05-06,297427,Loss of luggage reimbursement,Rejected,Coverage does not apply,False
+CLM-2686BED5,POL-375BCCFD,2024-10-18,33566,Loss of valuables during trip,Pending,,True
+CLM-C185A91E,POL-6C7271B7,2024-10-24,44366,Hospitalization for infection,Pending,,False
+CLM-B6D17BBC,POL-B9DE66DF,2024-11-10,206497,Storm damage to roof,Rejected,Incomplete documents,False
+CLM-93C2032A,POL-2C096702,2024-10-16,197395,Delayed baggage claim,Pending,,False
+CLM-470E7F31,POL-CF9F3A47,2023-08-10,461320,Reimbursement for medication,Rejected,Policy expired,True
+CLM-F6C639D0,POL-9F586E5A,2024-09-10,55801,Life insurance payout for accident,Rejected,Policy expired,False
+CLM-D981D1B3,POL-95614866,2024-03-24,415493,Repair of damaged tail light,Pending,,True
+CLM-7A4FDA2E,POL-B960CCAD,2023-07-01,448252,Repair costs for vehicle damage,Pending,,False
+CLM-804D668A,POL-31D8CFAC,2024-05-18,368972,Storm damage to property,Approved,,False
+CLM-A2CCAB2E,POL-44E910EB,2024-08-06,319355,Reimbursement for MRI scan,Pending,,False
+CLM-3A1FED27,POL-B08459A8,2025-03-01,215011,Claim for total disability,Rejected,Fraud suspicion,True
+CLM-7FB73355,POL-3855DA54,2023-06-12,337513,Claim dispute with insurer,Approved,,False
+CLM-C32100F3,POL-7FBEEC76,2024-04-17,393616,Payout for terminal illness,Pending,,False
+CLM-C4676341,POL-224D50DC,2025-02-25,293544,Reimbursement for medication,Rejected,Policy expired,True
+CLM-881DD021,POL-04627D82,2024-05-13,216925,Hospital stay due to accident,Pending,,False
+CLM-B98ED1FF,POL-9A7A9BFC,2025-02-23,163660,Lost baggage during travel,Pending,,False
+CLM-2D4A4979,POL-65CEF412,2024-09-17,155764,Repair costs for accident,Pending,,False
+CLM-505EE70C,POL-51A78C92,2024-07-10,367067,Flood damage to basement,Approved,,True
+CLM-3E735F9E,POL-0F3D86D5,2025-01-31,355547,Medical treatment for chronic disease,Pending,,True
+CLM-5AFD616A,POL-CE12EE60,2024-10-04,157365,Investigation for fraudulent claim,Approved,,False
+CLM-522D3B3C,POL-1AB4A00B,2024-09-04,120555,Claim for loss of hearing ability,Approved,,False
+CLM-BFD77126,POL-92AF5A94,2023-07-08,444284,Repair of cracked windshield,Pending,,False
+CLM-DE8113E0,POL-59EC0063,2023-12-02,212671,Loss of luggage reimbursement,Pending,,True
+CLM-A8CCDB79,POL-B5C072C0,2024-01-21,180415,Medical emergency overseas,Approved,,False
+CLM-33B7AC9C,POL-A2FBA8D8,2023-07-15,190119,Claim for loss of limb function,Pending,,True
+CLM-802B544B,POL-9ECAC2A9,2025-04-11,258762,Damage from flooding,Pending,,True
+CLM-D4C67FC6,POL-58FA16CC,2023-11-07,394187,Medical expenses for stroke treatment,Pending,,True
+CLM-D0F1F302,POL-86166A5A,2024-06-20,412606,Life insurance claim for natural death,Pending,,True
+CLM-C39D8329,POL-72A938F8,2024-08-17,114689,Repair of broken tail light,Rejected,Policy expired,False
+CLM-FCDB4CB4,POL-42CE69BC,2024-08-04,155684,Repair costs for vehicle accident,Approved,,True
+CLM-A4B98830,POL-573DA8BC,2023-12-06,190042,Loss of personal items during travel,Rejected,Fraud suspicion,True
+CLM-A6DD46DF,POL-CF291E22,2024-09-06,114528,Hospitalization due to injury,Rejected,Fraud suspicion,True
+CLM-16F22BA4,POL-893963D9,2024-06-17,317918,Car vandalism repair,Approved,,False
+CLM-CD42B69D,POL-5935948E,2023-06-08,114798,Life insurance claim for natural death,Pending,,True
+CLM-05DD029F,POL-D1100B67,2023-06-22,307342,Repair costs for accident damage,Approved,,False
+CLM-FB350B72,POL-39142C3D,2025-02-26,421704,Water damage to home,Rejected,Incomplete documents,False
+CLM-E9C74561,POL-109F85F1,2025-03-16,414176,Claim rejection appeal,Rejected,Coverage does not apply,True
+CLM-E3AC8360,POL-5EA35343,2024-02-16,162995,Claim rejection dispute,Approved,,True
+CLM-C33D58F3,POL-6C78EA0E,2024-06-04,199267,Fire damage to house,Approved,,True
+CLM-1F6A06D4,POL-EE355076,2023-07-04,386987,Medical expenses for stroke treatment,Approved,,True
+CLM-4AA87EAE,POL-1C1286A7,2023-11-04,418194,Hospitalization due to chronic illness,Approved,,True
+CLM-D3A0FD36,POL-F7360123,2023-10-22,295368,Fire damage to home interior,Approved,,True
+CLM-77300A6E,POL-6934805F,2024-06-24,284743,Fire damage to living room,Rejected,Fraud suspicion,True
+CLM-CEE996A3,POL-0B2B3981,2023-09-17,264239,Fire damage to building,Pending,,False
+CLM-EEAB8E6B,POL-4C1268B8,2024-07-29,95995,Accidental injury claim,Pending,,False
+CLM-0A19D70E,POL-BCEB2355,2023-08-05,366696,Delay in claim settlement,Rejected,Incomplete documents,True
+CLM-73B861BC,POL-369A4AB9,2023-07-22,424133,Claim for permanent disability,Rejected,Policy expired,False
+CLM-06A2473C,POL-FC50311E,2023-07-26,151820,Hospital stay due to disease,Approved,,False
+CLM-C387AE0E,POL-04D57A0A,2024-01-16,135956,Medical expenses for stroke treatment,Approved,,False
+CLM-741F5857,POL-758903DF,2024-12-13,203419,Fire damage to home exterior,Approved,,True
+CLM-E0D8BF68,POL-ADAB26A8,2024-07-30,492440,Hospitalization for kidney failure,Approved,,False
+CLM-716CB27E,POL-01603143,2023-09-14,492080,Medical treatment for injury,Pending,,True
+CLM-36C75EE4,POL-91E230E1,2024-11-22,321553,Repair of cracked windshield,Pending,,True
+CLM-915022D2,POL-9BA8D711,2025-01-27,262277,Hospitalization due to accident,Rejected,Incomplete documents,True
+CLM-05EDE203,POL-22AE53E4,2024-07-06,290919,Claim dispute over coverage terms,Approved,,False
+CLM-8274A5B2,POL-01D8020B,2025-01-23,244208,Customer dissatisfaction with claims,Pending,,False
+CLM-BE215521,POL-55187B1C,2024-05-07,16831,Replacement of damaged home appliances,Pending,,True
+CLM-E32738DD,POL-31F47A97,2023-08-03,498922,Repair of broken tail light,Pending,,False
+CLM-5F17D324,POL-4DECC331,2024-05-15,425359,Loss of personal items in transit,Approved,,False
+CLM-04445140,POL-ED6C8937,2024-05-30,286837,Life insurance claim for accidental death,Rejected,Policy expired,True
+CLM-7A0F5ABD,POL-8AB9C7B4,2024-11-20,25801,Hospital stay due to accident injuries,Approved,,True
+CLM-9FB7D0B1,POL-FF7910EF,2023-07-11,227379,Lost personal items during travel,Approved,,False
+CLM-ECFBD76F,POL-4B12BE72,2023-08-04,227360,Life insurance payout request,Rejected,Policy expired,False
+CLM-811BE24F,POL-B8874610,2023-06-26,279990,Life insurance payout request,Rejected,Policy expired,True
+CLM-83914DBA,POL-6F5BD88A,2023-11-10,267753,Flood damage to basement,Rejected,Incomplete documents,False
+CLM-9DD9D742,POL-835BE95B,2024-10-31,100944,Life insurance claim payout,Rejected,Incomplete documents,True
+CLM-7F8BD042,POL-1A56BBCB,2024-12-31,461597,Claim for temporary disability,Approved,,False
+CLM-22ADF758,POL-24629B1B,2023-10-31,160367,Claim process delay,Pending,,True
+CLM-763B9EEE,POL-AAFCDE44,2024-11-11,116858,Hospital expenses for childbirth,Approved,,False
+CLM-9DDC6DBA,POL-DBC07383,2023-09-13,426181,Car accident damages,Rejected,Coverage does not apply,True
+CLM-43635213,POL-50089C96,2025-02-05,384737,Repair of damaged windshield,Rejected,Coverage does not apply,False
+CLM-127B1899,POL-5E8F796D,2024-06-28,316667,Medical treatment for injury,Approved,,False
+CLM-88227A60,POL-BA58E321,2023-09-14,227787,Claim for loss of sight,Pending,,False
+CLM-9E2DF201,POL-BEB63A20,2024-08-08,478387,Claim for loss of speech,Rejected,Fraud suspicion,False
+CLM-689B5C3B,POL-8C1E2A8F,2023-09-27,154318,Repair of car scratches,Rejected,Policy expired,True
+CLM-B0F7EC0E,POL-C5703838,2025-05-18,425678,Repair of dented vehicle body,Approved,,False
+CLM-80F73329,POL-C4367972,2024-11-12,223084,Claim dispute over coverage terms,Approved,,False
+CLM-4AA9BC23,POL-F906B436,2025-01-31,13889,Reimbursement for medication,Pending,,True
+CLM-E189F3F3,POL-52623ADB,2024-06-08,269623,Fire damage to bedroom,Approved,,True
+CLM-B1CFD96C,POL-22A38171,2024-06-24,311982,Fire damage to bedroom,Rejected,Policy expired,True
+CLM-83C5D5C0,POL-32DDDB29,2024-01-27,455140,Water damage from burst pipe,Rejected,Coverage does not apply,True
+CLM-C6C014B1,POL-6CA7118C,2024-12-06,255070,Life insurance claim for accident,Approved,,True
+CLM-D7618D5B,POL-9983CF09,2023-08-10,113781,Storm damage to property,Pending,,True
+CLM-45CA67A8,POL-3BD4A62D,2023-09-27,109295,Lost baggage reimbursement,Rejected,Policy expired,True
+CLM-DFF4A9D7,POL-B85FC9F8,2024-10-12,486968,Loss of luggage reimbursement,Approved,,False
+CLM-E54D6A3B,POL-510C8CC5,2024-03-14,230525,Life insurance payout for accident,Approved,,True
+CLM-CFED3C84,POL-58709AEB,2023-12-02,392420,Dispute over claim payment,Approved,,True
+CLM-6F223EE6,POL-37DF27C1,2023-07-17,53554,Storm damage to home,Approved,,False
+CLM-06880388,POL-D67DDF4D,2023-06-09,341444,Reimbursement for hospital charges,Rejected,Policy expired,False
+CLM-B6187D18,POL-F833B46E,2024-03-09,318046,Repair of engine damage after accident,Pending,,True
+CLM-5E35EF9F,POL-22EBAA4E,2023-11-05,169394,Hospital stay for appendicitis,Pending,,True
+CLM-33A44D01,POL-3D54543A,2024-07-07,308206,Claim rejection dispute,Pending,,False
+CLM-CF4E765E,POL-04ED3C50,2024-03-12,28928,Damage from burglary,Rejected,Fraud suspicion,True
+CLM-473A158F,POL-8B740E95,2023-09-19,115374,Water damage to home,Pending,,True
+CLM-DD8BD4FE,POL-BC292A6E,2025-05-04,140658,Vehicle collision with another car,Rejected,Policy expired,False
+CLM-40B43D09,POL-111967C6,2024-02-07,495760,Claim process delay,Rejected,Coverage does not apply,True
+CLM-4C6368FA,POL-214A0402,2024-10-08,403638,Loss of luggage claim,Rejected,Fraud suspicion,False
+CLM-5E14B0FF,POL-5AF6ECA2,2025-02-27,253261,Hospitalization for surgery,Rejected,Coverage does not apply,True
+CLM-27AD6952,POL-12548B1F,2024-12-26,108571,Hospital stay due to injury,Pending,,False
+CLM-41EAC9E9,POL-BB51C942,2023-12-20,297265,Repair costs for accident,Rejected,Incomplete documents,False
+CLM-6247F762,POL-F5DCF5AC,2024-10-14,420538,Repair of side mirror damage,Pending,,True
+CLM-14CD3E5F,POL-C9ECA1EF,2025-03-29,143118,Dispute over claim payout,Rejected,Coverage does not apply,False
+CLM-5F42A429,POL-82EB8014,2023-05-29,418416,Loss of luggage claim,Pending,,False
+CLM-43406839,POL-77E35B94,2024-04-04,334557,Medical expenses for chronic illness,Pending,,True
+CLM-58552575,POL-9440AA6F,2023-08-04,71285,Claim rejection appeal,Rejected,Coverage does not apply,True
+CLM-06E2AF39,POL-2E3F55CF,2023-12-29,468053,Claim for temporary disability,Rejected,Policy expired,True
+CLM-00D9221B,POL-05EC4400,2025-03-18,243279,Storm damage to property,Pending,,True
+CLM-9CF65CC3,POL-A471FE17,2024-01-12,367993,Hospitalization for infection,Pending,,True
+CLM-D5F66A97,POL-211F76A6,2024-08-31,193816,Reimbursement for surgery,Rejected,Policy expired,False
+CLM-4443028E,POL-7F136991,2024-06-20,11056,Reimbursement for hospital stay,Rejected,Coverage does not apply,True
+CLM-D5F4BBAA,POL-52296E8F,2025-01-23,424880,Loss of electronics in theft,Pending,,True
+CLM-E2F88F60,POL-1CE6F7FD,2024-10-23,135247,Delay in claim processing,Approved,,False
+CLM-CF060651,POL-429C0649,2024-12-11,204843,Medical treatment for asthma attack,Pending,,False
+CLM-D6309778,POL-BF4E908F,2024-02-13,218055,Repair for car dent and scratches,Approved,,False
+CLM-C8FBAC64,POL-4E52F0AE,2023-07-31,150014,Loss of valuables claim,Approved,,False
+CLM-DBC6DF67,POL-5FF66E6A,2024-06-13,247088,Repair costs for collision damage,Approved,,True
+CLM-22247A5B,POL-BBDA4EB9,2023-05-28,238291,Medical treatment for chronic disease,Pending,,False
+CLM-13686D22,POL-3E944B9E,2025-03-23,171202,Life insurance payout for accident,Approved,,True
+CLM-701A4679,POL-5570D970,2023-11-28,480059,Theft of personal belongings from vehicle,Pending,,True
+CLM-E5C3EB33,POL-A61FD746,2024-12-16,204014,Claim for canceled trip expenses,Pending,,True
+CLM-F62F007B,POL-6F5FACA1,2024-08-28,356002,Medical treatment for stroke,Rejected,Policy expired,True
+CLM-61DAC35E,POL-56E15834,2025-04-15,30826,Claim for loss of eye sight,Rejected,Fraud suspicion,False
+CLM-047DC6C6,POL-703B55FA,2024-01-21,32006,Claim for loss of fingers,Pending,,True
+CLM-05945FB3,POL-7CB1C90F,2023-09-16,455971,Life insurance claim due to natural death,Pending,,False
+CLM-3910DD9F,POL-BFBF1AA4,2024-04-22,294692,Loss of valuables during trip,Pending,,False
+CLM-99C11CCA,POL-9B3DFF75,2024-11-17,346864,Damage caused by storm,Approved,,True
+CLM-A3809B99,POL-D8C97081,2023-09-06,387804,Lost baggage claim,Pending,,False
+CLM-19B535AD,POL-8696C329,2024-11-08,188391,Repair of damaged car parts,Pending,,True
+CLM-39EA66D3,POL-3F1AD8A7,2024-12-13,108710,Claim for loss of mobility,Approved,,False
+CLM-17992CAF,POL-540F7F0F,2024-07-30,209264,Customer complaint on claim,Rejected,Policy expired,False
+CLM-57B17386,POL-3383AEB0,2024-12-01,64747,Claim for loss of speech,Rejected,Incomplete documents,False
+CLM-78E09DB6,POL-C530DF75,2024-04-03,112236,Hospitalization due to accident,Approved,,False
+CLM-2D5EF1BC,POL-3FFC266A,2023-10-04,130042,Claim process delay complaint,Rejected,Coverage does not apply,True
+CLM-A3179102,POL-3409286E,2023-10-19,160430,Damage from flooding,Pending,,True
+CLM-2CA8F3E7,POL-485AC97C,2025-03-01,422221,Repair of damaged car engine,Pending,,True
+CLM-01AB7DA3,POL-7DB3C91C,2023-12-14,66433,Claim for loss of hand,Pending,,True
+CLM-B1AD94B2,POL-148D3F4F,2024-05-03,399482,Accidental injury claim,Approved,,True
+CLM-5149B620,POL-848AE004,2024-08-19,22379,Claim process dispute,Rejected,Fraud suspicion,False
+CLM-77493456,POL-F44E9749,2024-07-11,466406,Lost baggage compensation,Rejected,Coverage does not apply,False
+CLM-7A41D04F,POL-8C63A815,2023-10-07,305361,Fire damage to living room,Pending,,False
+CLM-A278A3FE,POL-FD580495,2024-10-10,61157,Claim for loss of limb,Rejected,Coverage does not apply,False
+CLM-1D3B8E15,POL-3B7FCA09,2023-07-17,158705,Medical treatment for heart disease,Rejected,Fraud suspicion,True
+CLM-E4E9BF46,POL-16C2EF2B,2023-06-04,23799,Customer dissatisfaction with claim process,Pending,,True
+CLM-F10BAF37,POL-2816BDAD,2023-10-26,258092,Claim dispute with insurer,Pending,,True
+CLM-ABC79F4B,POL-BDB061CF,2023-10-12,338997,Lost baggage compensation,Pending,,False
+CLM-D390DA60,POL-DE33F7EA,2023-11-14,255673,Medical emergency overseas,Approved,,False
+CLM-FBCBC710,POL-AD36119E,2024-11-20,207067,Lost baggage during travel,Approved,,False
+CLM-B33323B0,POL-B8E101BE,2024-11-05,261959,Claim for permanent disability,Rejected,Coverage does not apply,True
+CLM-6A9B9381,POL-C5F27034,2023-12-28,396402,Medical treatment for heart disease,Pending,,True
+CLM-06A72BA5,POL-C3C91B32,2024-08-05,201246,Reimbursement for MRI scan,Rejected,Incomplete documents,True
+CLM-9F8EF7F1,POL-5E7B6360,2025-01-19,245972,Investigation for fraudulent claim,Approved,,True
+CLM-466DE44A,POL-98423ECC,2023-12-27,205084,Customer complaint about claim,Rejected,Incomplete documents,False
+CLM-EDA1FA34,POL-C8EED155,2023-11-15,457864,Customer dissatisfaction with claims,Approved,,True
+CLM-7A8AB74E,POL-EC303668,2024-09-12,106450,Repair of damaged car parts,Pending,,False
+CLM-6A781F80,POL-E1568846,2024-11-01,160674,Hospital stay due to heart attack,Rejected,Incomplete documents,False
+CLM-4159418C,POL-A7A3FBF6,2024-01-16,499957,Life insurance payout for accident,Pending,,True
+CLM-5962743D,POL-0CBD97FD,2024-11-24,107780,Claim for permanent injury,Rejected,Fraud suspicion,True
+CLM-BF34F2F4,POL-3C7D1EB4,2025-03-19,43244,Life insurance payout,Pending,,False
+CLM-2FE99F3C,POL-47A8EFE1,2023-08-04,157671,Death due to accident,Rejected,Coverage does not apply,False
+CLM-EB4276EE,POL-86798AB6,2024-12-13,256636,Reimbursement for surgery,Rejected,Policy expired,False
+CLM-E3270A33,POL-E46CCE54,2023-08-16,398421,Claim for partial disability,Rejected,Incomplete documents,True
+CLM-B5608E8C,POL-A85CBA32,2024-04-23,342787,Life insurance claim due to illness,Approved,,False
+CLM-C995BBB1,POL-A5F199C0,2023-06-15,59009,Claim process dispute,Pending,,True
+CLM-297BC707,POL-EC9633A3,2024-11-23,294598,Car vandalism repair,Pending,,False
+CLM-6A37C2C3,POL-D27A0F11,2024-05-30,17003,Lost baggage reimbursement,Approved,,True
+CLM-171852E2,POL-B7B63A10,2024-08-17,225805,Medical treatment for chronic illness,Rejected,Incomplete documents,True
+CLM-B0D94C67,POL-13E09D31,2025-01-15,324731,Hospitalization for infection,Rejected,Fraud suspicion,False
+CLM-D2F3EB92,POL-DAF09F45,2023-11-17,339489,Claim rejection dispute,Rejected,Coverage does not apply,True
+CLM-EB6C0CD7,POL-49C70B42,2024-12-22,392323,Repair of car door damage,Rejected,Fraud suspicion,True
+CLM-6A44AB04,POL-2D66EAAF,2024-04-07,402393,Repair for side mirror damage,Pending,,False
